@@ -1,0 +1,141 @@
+/* Main footer background */
+.fh-footer {
+    background: linear-gradient(to bottom right, #0b461f, #064019);
+    color: #e9ffe8;
+    padding: 50px 20px 20px;
+    font-family: "Poppins", sans-serif;
+}
+
+/* Newsletter Section */
+.footer-newsletter {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.footer-newsletter h2 {
+    font-size: 26px;
+    color: #c7ffd4;
+}
+
+.footer-newsletter p {
+    font-size: 15px;
+    margin-top: 8px;
+    color: #dbffe4;
+}
+
+.newsletter-box {
+    margin-top: 18px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.newsletter-box input {
+    width: 260px;
+    padding: 12px;
+    border-radius: 8px;
+    border: none;
+    outline: none;
+    font-size: 15px;
+}
+
+.newsletter-box button {
+    background: #22b04c;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 8px;
+    color: white;
+    cursor: pointer;
+    font-weight: 600;
+    transition: 0.3s;
+}
+
+.newsletter-box button:hover {
+    background: #17863a;
+}
+
+/* Grid */
+.footer-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+    gap: 30px;
+    padding: 20px;
+}
+
+/* Logo & About */
+.footer-logo {
+    width: 100px;
+    margin-bottom: 10px;
+}
+
+.footer-about {
+    margin-top: 10px;
+    font-size: 14px;
+    line-height: 22px;
+}
+
+/* Titles */
+.footer-col h3 {
+    margin-bottom: 12px;
+    font-size: 18px;
+    color: #d4ffdc;
+}
+
+/* Links */
+.footer-col ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-col ul li {
+    margin-bottom: 8px;
+}
+
+.footer-col ul li a {
+    text-decoration: none;
+    color: #eaffef;
+    transition: 0.3s;
+}
+
+.footer-col ul li a:hover {
+    color: #b7ffc2;
+    padding-left: 5px;
+}
+
+/* Contact text */
+.footer-col p {
+    margin-bottom: 8px;
+    color: #eaffef;
+}
+
+/* Hours title */
+.hours-title {
+    margin-top: 15px;
+    color: #caffd0;
+}
+
+/* Social Icons */
+.social-icons {
+    margin-top: 14px;
+}
+
+.social-icons a {
+    color: white;
+    font-size: 20px;
+    margin-right: 10px;
+    transition: 0.3s;
+}
+
+.social-icons a:hover {
+    color: #9affb1;
+}
+
+/* Bottom strip */
+.footer-bottom {
+    margin-top: 35px;
+    border-top: 1px solid #1a6938;
+    padding-top: 15px;
+    text-align: center;
+    font-size: 14px;
+    color: #ddffe9;
+}

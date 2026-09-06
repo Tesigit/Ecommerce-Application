@@ -1,0 +1,132 @@
+.about-wrapper {
+  font-family: "Poppins", sans-serif;
+  background: #f8fff3;
+  padding-bottom: 50px;
+}
+
+/* HERO */
+.about-hero {
+  text-align: center;
+  padding: 60px 20px;
+  background: linear-gradient(to bottom right, #dfffe1, #f3ffe6);
+  border-bottom: 1px solid #d8ebd3;
+}
+
+.about-hero h1 {
+  font-size: 42px;
+  color: #0f6d2c;
+  font-weight: 700;
+}
+
+.tagline {
+  margin-top: 10px;
+  font-size: 18px;
+  color: #275d3a;
+}
+
+/* CARD SECTIONS */
+.card {
+  background: white;
+  width: 85%;
+  margin: 30px auto;
+  padding: 30px;
+  border-radius: 18px;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.06);
+}
+
+.card h2 {
+  font-size: 28px;
+  color: #0f6d2c;
+  margin-bottom: 15px;
+}
+
+/* FEATURES */
+.about-features {
+  width: 90%;
+  margin: 30px auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 20px;
+}
+
+.feature-box {
+  text-align: center;
+  background: white;
+  padding: 30px 20px;
+  border-radius: 16px;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.05);
+}
+
+.icon {
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+
+.feature-box h3 {
+  color: #0f6d2c;
+  font-size: 22px;
+  margin-bottom: 8px;
+}
+
+/* OFFER LIST */
+.offer-list li {
+  font-size: 18px;
+  margin: 8px 0;
+}
+
+/* VISION BANNER */
+.vision-banner {
+  text-align: center;
+  background: linear-gradient(to right, #caffd4, #eaffcf);
+  padding: 40px 20px;
+  border-radius: 18px;
+  width: 90%;
+  margin: 40px auto;
+}
+
+.vision-banner h2 {
+  font-size: 30px;
+  color: #0f6d2c;
+}
+
+/* VALUES */
+.about-values {
+  width: 90%;
+  margin: 30px auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 20px;
+}
+
+.value-box {
+  background: white;
+  padding: 25px;
+  border-radius: 16px;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.07);
+}
+
+.value-box h3 {
+  font-size: 22px;
+  color: #0f6d2c;
+  margin-bottom: 10px;
+}
+
+.order-button-wrapper {
+  display: flex;
+  justify-content: center; /* centers horizontally */
+  margin-top: 30px; /* optional spacing from content above */
+}
+
+.order-button {
+  padding: 10px 25px;
+  background-color: #2e7d32;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.order-button:hover {
+  background-color: #1b5e20;
+}

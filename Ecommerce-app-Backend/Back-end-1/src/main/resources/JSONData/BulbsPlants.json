@@ -1,0 +1,842 @@
+[
+    {
+        "common_name": "Tulips",
+        "scientific_name": "Tulipa gesneriana",
+        "family": "Liliaceae",
+        "categories": "Flowering Bulb",
+        "origin": "Europe & Asia",
+        "climate": "Temperate",
+        "zone": [
+            3,
+            9
+        ],
+        "img_url": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_1000,h_700/https://rachelbustin.com/wp-content/uploads/2022/05/tulips-in-terra-cotta-pots.jpg",
+        "price": 150,
+        "selling_price": 120,
+        "discount_percent": 20,
+        "rating": 4.5,
+        "description": "Tulips are colorful spring-blooming bulbs.",
+        "benefits": [
+            "Bright flowers",
+            "Easy to grow",
+            "Great for landscaping"
+        ],
+        "steps_to_grow": [
+            "Plant in fall",
+            "Use well-draining soil",
+            "Water moderately"
+        ]
+    },
+    {
+        "common_name": "Daffodils",
+        "scientific_name": "Narcissus pseudonarcissus",
+        "family": "Amaryllidaceae",
+        "categories": "Flowering Bulb",
+        "origin": "Europe",
+        "climate": "Temperate",
+        "zone": [
+            3,
+            10
+        ],
+        "img_url": "http://cdn.shopify.com/s/files/1/1902/7917/articles/narcis_in_pot.jpg?v=1569877851",
+        "price": 155,
+        "selling_price": 125,
+        "discount_percent": 19,
+        "rating": 4.6,
+        "description": "Daffodils bloom early in spring with cheerful yellow flowers.",
+        "benefits": [
+            "Low maintenance",
+            "Deer resistant",
+            "Naturalizes easily"
+        ],
+        "steps_to_grow": [
+            "Plant 6 inches deep",
+            "Place in sun",
+            "Water after planting"
+        ]
+    },
+    {
+        "common_name": "Amaryllis",
+        "scientific_name": "Hippeastrum",
+        "family": "Amaryllidaceae",
+        "categories": "Flowering Bulb",
+        "origin": "South America",
+        "climate": "Tropical",
+        "zone": [
+            8,
+            11
+        ],
+        "img_url": "https://horticulture.co.uk/wp-content/uploads/2022/12/amarylliscontainergrowing-header-1024x683.jpg",
+        "price": 160,
+        "selling_price": 130,
+        "discount_percent": 18,
+        "rating": 4.7,
+        "description": "Amaryllis produces large, dramatic trumpet-shaped blooms.",
+        "benefits": [
+            "Huge blooms",
+            "Indoor-friendly",
+            "Winter flowering"
+        ],
+        "steps_to_grow": [
+            "Plant bulb halfway above soil",
+            "Give bright light",
+            "Water sparingly"
+        ]
+    },
+    {
+        "common_name": "Hyacinth",
+        "scientific_name": "Hyacinthus orientalis",
+        "family": "Asparagaceae",
+        "categories": "Flowering Bulb",
+        "origin": "Mediterranean",
+        "climate": "Temperate",
+        "zone": [
+            4,
+            8
+        ],
+        "img_url": "https://tse4.mm.bing.net/th/id/OIP.Rj7-sLki0-oa_6bUNwnTWgHaHa?pid=Api&P=0&h=180",
+        "price": 145,
+        "selling_price": 118,
+        "discount_percent": 18,
+        "rating": 4.4,
+        "description": "Hyacinths are known for their fragrance and dense flower clusters.",
+        "benefits": [
+            "Strong fragrance",
+            "Compact plant",
+            "Great for indoor forcing"
+        ],
+        "steps_to_grow": [
+            "Chill bulbs first",
+            "Use draining soil",
+            "Water gently"
+        ]
+    },
+    {
+        "common_name": "Crocus",
+        "scientific_name": "Crocus sativus",
+        "family": "Iridaceae",
+        "categories": "Flowering Bulb",
+        "origin": "Mediterranean",
+        "climate": "Temperate",
+        "zone": [
+            3,
+            8
+        ],
+        "img_url": "https://horticulture.co.uk/wp-content/uploads/2022/12/02-Large-17-800x592.jpeg",
+        "price": 130,
+        "selling_price": 105,
+        "discount_percent": 19,
+        "rating": 4.3,
+        "description": "Crocus blooms early in spring with delicate flowers.",
+        "benefits": [
+            "Early bloom",
+            "Cold tolerant",
+            "Low maintenance"
+        ],
+        "steps_to_grow": [
+            "Plant 3 inches deep",
+            "Water lightly",
+            "Avoid soggy soil"
+        ]
+    },
+    {
+        "common_name": "Lily",
+        "scientific_name": "Lilium",
+        "family": "Liliaceae",
+        "categories": "Flowering Bulb",
+        "origin": "Asia",
+        "climate": "Temperate",
+        "zone": [
+            4,
+            9
+        ],
+        "img_url": "https://tse4.mm.bing.net/th/id/OIP.RMBjyJVy_gSRcMr6EvF7VgHaJW?pid=Api&P=0&h=180",
+        "price": 170,
+        "selling_price": 140,
+        "discount_percent": 18,
+        "rating": 4.7,
+        "description": "Lilies are tall, elegant perennials with fragrant blooms.",
+        "benefits": [
+            "Fragrant",
+            "Long-lasting",
+            "Attractive in borders"
+        ],
+        "steps_to_grow": [
+            "Plant 8 inches deep",
+            "Full sun",
+            "Support stems"
+        ]
+    },
+    {
+        "common_name": "Calla Lily",
+        "scientific_name": "Zantedeschia aethiopica",
+        "family": "Araceae",
+        "categories": "Flowering Bulb",
+        "origin": "Africa",
+        "climate": "Tropical",
+        "zone": [
+            8,
+            10
+        ],
+        "img_url": "https://balconygardenweb.b-cdn.net/wp-content/uploads/2024/03/Calla-Lilies-in-a-Tin-Container.jpg",
+        "price": 165,
+        "selling_price": 132,
+        "discount_percent": 20,
+        "rating": 4.5,
+        "description": "Calla lilies are elegant flowers with trumpet-shaped blooms.",
+        "benefits": [
+            "Great for bouquets",
+            "Easy-care",
+            "High ornamental value"
+        ],
+        "steps_to_grow": [
+            "Plant in moist soil",
+            "Bright light",
+            "Water regularly"
+        ]
+    },
+    {
+        "common_name": "Snowdrop",
+        "scientific_name": "Galanthus nivalis",
+        "family": "Amaryllidaceae",
+        "categories": "Flowering Bulb",
+        "origin": "Europe",
+        "climate": "Cold\u2013Temperate",
+        "zone": [
+            3,
+            7
+        ],
+        "img_url": "https://static.vecteezy.com/system/resources/previews/027/200/235/large_2x/of-snowdrop-flower-in-pot-isolated-on-white-background-generative-ai-photo.jpg",
+        "price": 125,
+        "selling_price": 100,
+        "discount_percent": 20,
+        "rating": 4.2,
+        "description": "Snowdrops bloom in late winter with white nodding flowers.",
+        "benefits": [
+            "Cold hardy",
+            "Early blooms",
+            "Naturalizes well"
+        ],
+        "steps_to_grow": [
+            "Plant immediately",
+            "Use moist soil",
+            "Water lightly"
+        ]
+    },
+    {
+        "common_name": "Iris",
+        "scientific_name": "Iris germanica",
+        "family": "Iridaceae",
+        "categories": "Flowering Bulb",
+        "origin": "Europe",
+        "climate": "Temperate",
+        "zone": [
+            3,
+            9
+        ],
+        "img_url": "https://img.freepik.com/premium-photo/irises-photorealistic-iris-purple-flower-pot-basket-flowers_915367-23675.jpg",
+        "price": 160,
+        "selling_price": 130,
+        "discount_percent": 19,
+        "rating": 4.6,
+        "description": "Irises are known for tall stems and unique colorful blooms.",
+        "benefits": [
+            "Hardy",
+            "Dramatic flowers",
+            "Great for borders"
+        ],
+        "steps_to_grow": [
+            "Plant shallow",
+            "Provide sun",
+            "Divide regularly"
+        ]
+    },
+    {
+        "common_name": "Ranunculus",
+        "scientific_name": "Ranunculus asiaticus",
+        "family": "Ranunculaceae",
+        "categories": "Flowering Bulb",
+        "origin": "Asia",
+        "climate": "Cool\u2013Temperate",
+        "zone": [
+            8,
+            10
+        ],
+        "img_url": "https://plantcaretoday.com/wp-content/uploads/pink-ranunculus-potted-01312019-min.jpg",
+        "price": 145,
+        "selling_price": 118,
+        "discount_percent": 18,
+        "rating": 4.4,
+        "description": "Ranunculus has layered rose-like flowers in vivid colors.",
+        "benefits": [
+            "Great for bouquets",
+            "Pretty blooms",
+            "Compact"
+        ],
+        "steps_to_grow": [
+            "Soak tubers",
+            "Full sun",
+            "Water regularly"
+        ]
+    },
+    {
+        "common_name": "Tulips",
+        "scientific_name": "Tulipa gesneriana",
+        "family": "Liliaceae",
+        "categories": "Flowering Bulb",
+        "origin": "Europe & Asia",
+        "climate": "Temperate",
+        "zone": [
+            3,
+            9
+        ],
+        "img_url": "https://m.media-amazon.com/images/I/71sQOlkixLL.jpg",
+        "price": 150,
+        "selling_price": 120,
+        "discount_percent": 20,
+        "rating": 4.5,
+        "description": "Tulips are colorful spring-blooming bulbs.",
+        "benefits": [
+            "Bright flowers",
+            "Easy to grow",
+            "Great for landscaping"
+        ],
+        "steps_to_grow": [
+            "Plant in fall",
+            "Use well-draining soil",
+            "Water moderately"
+        ]
+    },
+    {
+        "common_name": "Daffodils",
+        "scientific_name": "Narcissus pseudonarcissus",
+        "family": "Amaryllidaceae",
+        "categories": "Flowering Bulb",
+        "origin": "Europe",
+        "climate": "Temperate",
+        "zone": [
+            3,
+            10
+        ],
+        "img_url": "https://tse2.mm.bing.net/th/id/OIP.5ab-zQEp4qEtC1R1BvirEwHaHa?pid=Api&P=0&h=180",
+        "price": 155,
+        "selling_price": 125,
+        "discount_percent": 19,
+        "rating": 4.6,
+        "description": "Daffodils bloom early in spring with cheerful yellow flowers.",
+        "benefits": [
+            "Low maintenance",
+            "Deer resistant",
+            "Naturalizes easily"
+        ],
+        "steps_to_grow": [
+            "Plant 6 inches deep",
+            "Place in sun",
+            "Water after planting"
+        ]
+    },
+    {
+        "common_name": "Amaryllis",
+        "scientific_name": "Hippeastrum",
+        "family": "Amaryllidaceae",
+        "categories": "Flowering Bulb",
+        "origin": "South America",
+        "climate": "Tropical",
+        "zone": [
+            8,
+            11
+        ],
+        "img_url": "http://hgtvhome.sndimg.com/content/dam/images/grdn/fullset/2013/2/21/0/CI_a-perfect-potted-amaryllis.jpg.rend.hgtvcom.1280.1600.suffix/1452645552082.jpeg",
+        "price": 160,
+        "selling_price": 130,
+        "discount_percent": 18,
+        "rating": 4.7,
+        "description": "Amaryllis produces large, dramatic trumpet-shaped blooms.",
+        "benefits": [
+            "Huge blooms",
+            "Indoor-friendly",
+            "Winter flowering"
+        ],
+        "steps_to_grow": [
+            "Plant bulb halfway above soil",
+            "Give bright light",
+            "Water sparingly"
+        ]
+    },
+    {
+        "common_name": "Hyacinth",
+        "scientific_name": "Hyacinthus orientalis",
+        "family": "Asparagaceae",
+        "categories": "Flowering Bulb",
+        "origin": "Mediterranean",
+        "climate": "Temperate",
+        "zone": [
+            4,
+            8
+        ],
+        "img_url": "https://www.thompson-morgan.com/static-images/master/static-images/how-to-grow-hyacinths/how-to-grow-hyacinths-pots.jpg",
+        "price": 145,
+        "selling_price": 118,
+        "discount_percent": 18,
+        "rating": 4.4,
+        "description": "Hyacinths are known for their fragrance and dense flower clusters.",
+        "benefits": [
+            "Strong fragrance",
+            "Compact plant",
+            "Great for indoor forcing"
+        ],
+        "steps_to_grow": [
+            "Chill bulbs first",
+            "Use draining soil",
+            "Water gently"
+        ]
+    },
+    {
+        "common_name": "Crocus",
+        "scientific_name": "Crocus sativus",
+        "family": "Iridaceae",
+        "categories": "Flowering Bulb",
+        "origin": "Mediterranean",
+        "climate": "Temperate",
+        "zone": [
+            3,
+            8
+        ],
+        "img_url": "https://worldoffloweringplants.com/wp-content/uploads/2019/01/Crocus-Indoors1.jpg",
+        "price": 130,
+        "selling_price": 105,
+        "discount_percent": 19,
+        "rating": 4.3,
+        "description": "Crocus blooms early in spring with delicate flowers.",
+        "benefits": [
+            "Early bloom",
+            "Cold tolerant",
+            "Low maintenance"
+        ],
+        "steps_to_grow": [
+            "Plant 3 inches deep",
+            "Water lightly",
+            "Avoid soggy soil"
+        ]
+    },
+    {
+        "common_name": "Lily",
+        "scientific_name": "Lilium",
+        "family": "Liliaceae",
+        "categories": "Flowering Bulb",
+        "origin": "Asia",
+        "climate": "Temperate",
+        "zone": [
+            4,
+            9
+        ],
+        "img_url": "https://www.bulbblog.com/wp-content/uploads/2023/03/77610-rozalynn-asiatic-lily.jpg",
+        "price": 170,
+        "selling_price": 140,
+        "discount_percent": 18,
+        "rating": 4.7,
+        "description": "Lilies are tall, elegant perennials with fragrant blooms.",
+        "benefits": [
+            "Fragrant",
+            "Long-lasting",
+            "Attractive in borders"
+        ],
+        "steps_to_grow": [
+            "Plant 8 inches deep",
+            "Full sun",
+            "Support stems"
+        ]
+    },
+    {
+        "common_name": "Calla Lily",
+        "scientific_name": "Zantedeschia aethiopica",
+        "family": "Araceae",
+        "categories": "Flowering Bulb",
+        "origin": "Africa",
+        "climate": "Tropical",
+        "zone": [
+            8,
+            10
+        ],
+        "img_url": "https://tse1.mm.bing.net/th/id/OIP.Vo_FKwMY1iVXnt_YI6JVZgHaHa?pid=Api&P=0&h=180",
+        "price": 165,
+        "selling_price": 132,
+        "discount_percent": 20,
+        "rating": 4.5,
+        "description": "Calla lilies are elegant flowers with trumpet-shaped blooms.",
+        "benefits": [
+            "Great for bouquets",
+            "Easy-care",
+            "High ornamental value"
+        ],
+        "steps_to_grow": [
+            "Plant in moist soil",
+            "Bright light",
+            "Water regularly"
+        ]
+    },
+    {
+        "common_name": "Snowdrop",
+        "scientific_name": "Galanthus nivalis",
+        "family": "Amaryllidaceae",
+        "categories": "Flowering Bulb",
+        "origin": "Europe",
+        "climate": "Cold\u2013Temperate",
+        "zone": [
+            3,
+            7
+        ],
+        "img_url": "https://m.media-amazon.com/images/I/418rgjxwtHL._AC_SY450_.jpg",
+        "price": 125,
+        "selling_price": 100,
+        "discount_percent": 20,
+        "rating": 4.2,
+        "description": "Snowdrops bloom in late winter with white nodding flowers.",
+        "benefits": [
+            "Cold hardy",
+            "Early blooms",
+            "Naturalizes well"
+        ],
+        "steps_to_grow": [
+            "Plant immediately",
+            "Use moist soil",
+            "Water lightly"
+        ]
+    },
+    {
+        "common_name": "Iris",
+        "scientific_name": "Iris germanica",
+        "family": "Iridaceae",
+        "categories": "Flowering Bulb",
+        "origin": "Europe",
+        "climate": "Temperate",
+        "zone": [
+            3,
+            9
+        ],
+        "img_url": "https://img.freepik.com/premium-photo/iris-flower-pot-realistic-photo_1021165-407.jpg",
+        "price": 160,
+        "selling_price": 130,
+        "discount_percent": 19,
+        "rating": 4.6,
+        "description": "Irises are known for tall stems and unique colorful blooms.",
+        "benefits": [
+            "Hardy",
+            "Dramatic flowers",
+            "Great for borders"
+        ],
+        "steps_to_grow": [
+            "Plant shallow",
+            "Provide sun",
+            "Divide regularly"
+        ]
+    },
+    {
+        "common_name": "Ranunculus",
+        "scientific_name": "Ranunculus asiaticus",
+        "family": "Ranunculaceae",
+        "categories": "Flowering Bulb",
+        "origin": "Asia",
+        "climate": "Cool\u2013Temperate",
+        "zone": [
+            8,
+            10
+        ],
+        "img_url": "https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX4001500.jpg",
+        "price": 145,
+        "selling_price": 118,
+        "discount_percent": 18,
+        "rating": 4.4,
+        "description": "Ranunculus has layered rose-like flowers in vivid colors.",
+        "benefits": [
+            "Great for bouquets",
+            "Pretty blooms",
+            "Compact"
+        ],
+        "steps_to_grow": [
+            "Soak tubers",
+            "Full sun",
+            "Water regularly"
+        ]
+    },
+    {
+        "common_name": "Tulips",
+        "scientific_name": "Tulipa gesneriana",
+        "family": "Liliaceae",
+        "categories": "Flowering Bulb",
+        "origin": "Europe & Asia",
+        "climate": "Temperate",
+        "zone": [
+            3,
+            9
+        ],
+        "img_url": "https://cdn.shopify.com/s/files/1/1902/7917/files/Tulips_In_Pots.jpg?v=1592744239",
+        "price": 150,
+        "selling_price": 120,
+        "discount_percent": 20,
+        "rating": 4.5,
+        "description": "Tulips are colorful spring-blooming bulbs.",
+        "benefits": [
+            "Bright flowers",
+            "Easy to grow",
+            "Great for landscaping"
+        ],
+        "steps_to_grow": [
+            "Plant in fall",
+            "Use well-draining soil",
+            "Water moderately"
+        ]
+    },
+    {
+        "common_name": "Daffodils",
+        "scientific_name": "Narcissus pseudonarcissus",
+        "family": "Amaryllidaceae",
+        "categories": "Flowering Bulb",
+        "origin": "Europe",
+        "climate": "Temperate",
+        "zone": [
+            3,
+            10
+        ],
+        "img_url": "http://www.sandandsisal.com/wp-content/uploads/2013/10/Daffodils.jpg",
+        "price": 155,
+        "selling_price": 125,
+        "discount_percent": 19,
+        "rating": 4.6,
+        "description": "Daffodils bloom early in spring with cheerful yellow flowers.",
+        "benefits": [
+            "Low maintenance",
+            "Deer resistant",
+            "Naturalizes easily"
+        ],
+        "steps_to_grow": [
+            "Plant 6 inches deep",
+            "Place in sun",
+            "Water after planting"
+        ]
+    },
+    {
+        "common_name": "Amaryllis",
+        "scientific_name": "Hippeastrum",
+        "family": "Amaryllidaceae",
+        "categories": "Flowering Bulb",
+        "origin": "South America",
+        "climate": "Tropical",
+        "zone": [
+            8,
+            11
+        ],
+        "img_url": "https://tse4.mm.bing.net/th/id/OIP.D3Mrkgkqv1cJkqIGvX2LHwAAAA?pid=Api&P=0&h=180",
+        "price": 160,
+        "selling_price": 130,
+        "discount_percent": 18,
+        "rating": 4.7,
+        "description": "Amaryllis produces large, dramatic trumpet-shaped blooms.",
+        "benefits": [
+            "Huge blooms",
+            "Indoor-friendly",
+            "Winter flowering"
+        ],
+        "steps_to_grow": [
+            "Plant bulb halfway above soil",
+            "Give bright light",
+            "Water sparingly"
+        ]
+    },
+    {
+        "common_name": "Hyacinth",
+        "scientific_name": "Hyacinthus orientalis",
+        "family": "Asparagaceae",
+        "categories": "Flowering Bulb",
+        "origin": "Mediterranean",
+        "climate": "Temperate",
+        "zone": [
+            4,
+            8
+        ],
+        "img_url": "https://thumbs.dreamstime.com/z/hyacinthus-small-genus-bulbous-hyacinth-pot-129438304.jpg",
+        "price": 145,
+        "selling_price": 118,
+        "discount_percent": 18,
+        "rating": 4.4,
+        "description": "Hyacinths are known for their fragrance and dense flower clusters.",
+        "benefits": [
+            "Strong fragrance",
+            "Compact plant",
+            "Great for indoor forcing"
+        ],
+        "steps_to_grow": [
+            "Chill bulbs first",
+            "Use draining soil",
+            "Water gently"
+        ]
+    },
+    {
+        "common_name": "Crocus",
+        "scientific_name": "Crocus sativus",
+        "family": "Iridaceae",
+        "categories": "Flowering Bulb",
+        "origin": "Mediterranean",
+        "climate": "Temperate",
+        "zone": [
+            3,
+            8
+        ],
+        "img_url": "https://thumbs.dreamstime.com/z/crocus-pot-purple-flowers-terracotta-isolated-against-white-39019233.jpg",
+        "price": 130,
+        "selling_price": 105,
+        "discount_percent": 19,
+        "rating": 4.3,
+        "description": "Crocus blooms early in spring with delicate flowers.",
+        "benefits": [
+            "Early bloom",
+            "Cold tolerant",
+            "Low maintenance"
+        ],
+        "steps_to_grow": [
+            "Plant 3 inches deep",
+            "Water lightly",
+            "Avoid soggy soil"
+        ]
+    },
+    {
+        "common_name": "Lily",
+        "scientific_name": "Lilium",
+        "family": "Liliaceae",
+        "categories": "Flowering Bulb",
+        "origin": "Asia",
+        "climate": "Temperate",
+        "zone": [
+            4,
+            9
+        ],
+        "img_url": "https://mynortherngarden.com/wp-content/uploads/2021/04/orange-lily-in-pot.jpg",
+        "price": 170,
+        "selling_price": 140,
+        "discount_percent": 18,
+        "rating": 4.7,
+        "description": "Lilies are tall, elegant perennials with fragrant blooms.",
+        "benefits": [
+            "Fragrant",
+            "Long-lasting",
+            "Attractive in borders"
+        ],
+        "steps_to_grow": [
+            "Plant 8 inches deep",
+            "Full sun",
+            "Support stems"
+        ]
+    },
+    {
+        "common_name": "Calla Lily",
+        "scientific_name": "Zantedeschia aethiopica",
+        "family": "Araceae",
+        "categories": "Flowering Bulb",
+        "origin": "Africa",
+        "climate": "Tropical",
+        "zone": [
+            8,
+            10
+        ],
+        "img_url": "https://gardenerspath.com/wp-content/uploads/2023/03/Colorful-Callas-in-a-Ceramic-Container-768x1152.jpg",
+        "price": 165,
+        "selling_price": 132,
+        "discount_percent": 20,
+        "rating": 4.5,
+        "description": "Calla lilies are elegant flowers with trumpet-shaped blooms.",
+        "benefits": [
+            "Great for bouquets",
+            "Easy-care",
+            "High ornamental value"
+        ],
+        "steps_to_grow": [
+            "Plant in moist soil",
+            "Bright light",
+            "Water regularly"
+        ]
+    },
+    {
+        "common_name": "Snowdrop",
+        "scientific_name": "Galanthus nivalis",
+        "family": "Amaryllidaceae",
+        "categories": "Flowering Bulb",
+        "origin": "Europe",
+        "climate": "Cold\u2013Temperate",
+        "zone": [
+            3,
+            7
+        ],
+        "img_url": "https://static.vecteezy.com/system/resources/previews/027/200/226/large_2x/of-snowdrop-flower-in-pot-isolated-on-white-background-generative-ai-photo.jpg",
+        "price": 125,
+        "selling_price": 100,
+        "discount_percent": 20,
+        "rating": 4.2,
+        "description": "Snowdrops bloom in late winter with white nodding flowers.",
+        "benefits": [
+            "Cold hardy",
+            "Early blooms",
+            "Naturalizes well"
+        ],
+        "steps_to_grow": [
+            "Plant immediately",
+            "Use moist soil",
+            "Water lightly"
+        ]
+    },
+    {
+        "common_name": "Iris",
+        "scientific_name": "Iris germanica",
+        "family": "Iridaceae",
+        "categories": "Flowering Bulb",
+        "origin": "Europe",
+        "climate": "Temperate",
+        "zone": [
+            3,
+            9
+        ],
+        "img_url": "https://img.freepik.com/premium-photo/iris-flower-pot-realistic-photo_1021165-407.jpg",
+        "price": 160,
+        "selling_price": 130,
+        "discount_percent": 19,
+        "rating": 4.6,
+        "description": "Irises are known for tall stems and unique colorful blooms.",
+        "benefits": [
+            "Hardy",
+            "Dramatic flowers",
+            "Great for borders"
+        ],
+        "steps_to_grow": [
+            "Plant shallow",
+            "Provide sun",
+            "Divide regularly"
+        ]
+    },
+    {
+        "common_name": "Ranunculus",
+        "scientific_name": "Ranunculus asiaticus",
+        "family": "Ranunculaceae",
+        "categories": "Flowering Bulb",
+        "origin": "Asia",
+        "climate": "Cool\u2013Temperate",
+        "zone": [
+            8,
+            10
+        ],
+        "img_url": "https://images.ctfassets.net/zma7thmmcinb/2k6pwBo1iqEWHsmk1oTMV9/be2ac78c19edbda22c6b6d5be5dbc159/how-to-grow-ranunculus-containerR.jpg",
+        "price": 145,
+        "selling_price": 118,
+        "discount_percent": 18,
+        "rating": 4.4,
+        "description": "Ranunculus has layered rose-like flowers in vivid colors.",
+        "benefits": [
+            "Great for bouquets",
+            "Pretty blooms",
+            "Compact"
+        ],
+        "steps_to_grow": [
+            "Soak tubers",
+            "Full sun",
+            "Water regularly"
+        ]
+    }
+]

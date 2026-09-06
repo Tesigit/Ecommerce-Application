@@ -1,0 +1,2460 @@
+[
+    {
+        "common_name": "Hibiscus",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse2.mm.bing.net/th/id/OIP.uuuDey5WLegAqvE7t7qu4wHaEV?pid=Api&P=0&h=180",
+        "price": 20,
+        "selling_price": 15,
+        "discount_percent": 10,
+        "rating": 3.5,
+        "description": "Hibiscus is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Hibiscus enhances outdoor and indoor spaces",
+            "supports pollinators",
+            "improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Hibiscus in well-drained soil",
+            "provide adequate sunlight",
+            "water moderately",
+            "prune when needed"
+        ]
+    },
+    {
+        "common_name": "Rose",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse1.mm.bing.net/th/id/OIP.zk9LO8YnV9z2_Cs2h2bacQHaEK?pid=Api&P=0&h=180",
+        "price": 23,
+        "selling_price": 17,
+        "discount_percent": 15,
+        "rating": 3.8,
+        "description": "Rose is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Rose enhances outdoor and indoor spaces",
+            "supports pollinators",
+            "improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Rose in well-drained soil",
+            "provide adequate sunlight",
+            "water moderately",
+            "prune when needed"
+        ]
+    },
+    {
+        "common_name": "Sunflower",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse1.mm.bing.net/th/id/OIP.T22FgxtU-dNl8AY2QDjfZQHaJ4?pid=Api&P=0&h=180",
+        "price": 26,
+        "selling_price": 19,
+        "discount_percent": 20,
+        "rating": 4.1,
+        "description": "Sunflower is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Sunflower enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Sunflower in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Tulip",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://www.rosepedia.com/wp-content/uploads/2017/03/c31bd605b027c7f7/growing-tulips-in-pots.jpeg",
+        "price": 29,
+        "selling_price": 21,
+        "discount_percent": 25,
+        "rating": 4.4,
+        "description": "Tulip is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Tulip enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Tulip in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Jasmine",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse4.mm.bing.net/th/id/OIP.Dyrc5YmwxpQx_Hkrb9KtuQHaHa?pid=Api&P=0&h=180",
+        "price": 32,
+        "selling_price": 23,
+        "discount_percent": 30,
+        "rating": 4.7,
+        "description": "Jasmine is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Jasmine enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Jasmine in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Marigold",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse2.mm.bing.net/th/id/OIP.Q32XkHqKZTk55FQVA31hrQHaE8?pid=Api&P=0&h=180",
+        "price": 35,
+        "selling_price": 25,
+        "discount_percent": 10,
+        "rating": 3.5,
+        "description": "Marigold is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Marigold enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Marigold in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Lavender",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse2.mm.bing.net/th/id/OIP.o3RIyp-85QCIDf9ve1ivcAHaHa?pid=Api&P=0&h=180",
+        "price": 38,
+        "selling_price": 27,
+        "discount_percent": 15,
+        "rating": 3.8,
+        "description": "Lavender is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Lavender enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Lavender in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Orchid",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://orchidbliss.com/wp-content/uploads/2017/02/orchid-display-orchid-planter-idea-620x930.png",
+        "price": 41,
+        "selling_price": 29,
+        "discount_percent": 20,
+        "rating": 4.1,
+        "description": "Orchid is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Orchid enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Orchid in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Dahlia",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://backyardville.b-cdn.net/wp-content/uploads/2023/08/8f633bf8-7224-4f41-b862-db5b423ccc4f.png",
+        "price": 44,
+        "selling_price": 31,
+        "discount_percent": 25,
+        "rating": 4.4,
+        "description": "Dahlia is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Dahlia enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Dahlia in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Lotus",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://i.ytimg.com/vi/A1CNWYeS8Ck/maxresdefault.jpg",
+        "price": 47,
+        "selling_price": 33,
+        "discount_percent": 30,
+        "rating": 4.7,
+        "description": "Lotus is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Lotus enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Lotus in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Water Lily",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse4.mm.bing.net/th/id/OIP.yOYtRH-6VnTYEXehahWitQHaE8?pid=Api&P=0&h=180",
+        "price": 20,
+        "selling_price": 15,
+        "discount_percent": 10,
+        "rating": 3.5,
+        "description": "Water Lily is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Water Lily enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Water Lily in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Magnolia",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse1.mm.bing.net/th/id/OIP.TIfAzPI7obnjpJKLkAKdVwAAAA?pid=Api&P=0&h=180",
+        "price": 23,
+        "selling_price": 17,
+        "discount_percent": 15,
+        "rating": 3.8,
+        "description": "Magnolia is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Magnolia enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Magnolia in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Peony",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse4.mm.bing.net/th/id/OIP.jSiwcWRK_qapdxR3Le2_KgHaEO?pid=Api&P=0&h=180",
+        "price": 26,
+        "selling_price": 19,
+        "discount_percent": 20,
+        "rating": 4.1,
+        "description": "Peony is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Peony enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Peony in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Begonia",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse4.mm.bing.net/th/id/OIP.FcE5fpbTKM-cVIr8VwLXXAHaKU?pid=Api&P=0&h=180",
+        "price": 29,
+        "selling_price": 21,
+        "discount_percent": 25,
+        "rating": 4.4,
+        "description": "Begonia is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Begonia enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Begonia in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Carnation",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse4.mm.bing.net/th/id/OIP.vEj7fZXLkssMJGVHPQ2REAHaFj?pid=Api&P=0&h=180",
+        "price": 32,
+        "selling_price": 23,
+        "discount_percent": 30,
+        "rating": 4.7,
+        "description": "Carnation is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Carnation enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Carnation in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Chrysanthemum",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse2.mm.bing.net/th/id/OIP.eGUN5phoi4P-XxCqMFFn2QHaEH?pid=Api&P=0&h=180",
+        "price": 35,
+        "selling_price": 25,
+        "discount_percent": 10,
+        "rating": 3.5,
+        "description": "Chrysanthemum is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Chrysanthemum enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Chrysanthemum in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Petunia",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse1.mm.bing.net/th/id/OIP.c2o9sJ7CEtbMla15T4zg8wHaFX?pid=Api&P=0&h=180",
+        "price": 38,
+        "selling_price": 27,
+        "discount_percent": 15,
+        "rating": 3.8,
+        "description": "Petunia is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Petunia in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Zinnia",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse3.mm.bing.net/th/id/OIP.oLq_mQVlvJZb7hX_PYtsvAHaHa?pid=Api&P=0&h=180",
+        "price": 41,
+        "selling_price": 29,
+        "discount_percent": 20,
+        "rating": 4.1,
+        "description": "Zinnia is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Zinnia in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Pansy",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse1.mm.bing.net/th/id/OIP.E6_R8GZ1H5scoYzOwNuxpAHaE7?pid=Api&P=0&h=180",
+        "price": 44,
+        "selling_price": 31,
+        "discount_percent": 25,
+        "rating": 4.4,
+        "description": "Pansy is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Pansy in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Violet",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+         "zone": "[3,12]",
+        "img_url": "https://img.freepik.com/premium-photo/photo-indoor-plants-african-violet-white-pot-isolated-white-background_1077802-122471.jpg",
+        "price": 47,
+        "selling_price": 33,
+        "discount_percent": 30,
+        "rating": 4.7,
+        "description": "Violet is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Violet in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Lily",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse3.mm.bing.net/th/id/OIP.58zwN8nHyO69GQDTGqfmcQHaFo?pid=Api&P=0&h=180",
+        "price": 20,
+        "selling_price": 15,
+        "discount_percent": 10,
+        "rating": 3.5,
+        "description": "Lily is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Lily in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Snowdrop",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+         "zone": "[3,12]",
+        "img_url": "https://images.immediate.co.uk/production/volatile/sites/10/2018/02/9f976f9e-fb30-49d2-810d-e1ee4c06b199-635b660.jpg?quality=45&resize=960,640",
+        "price": 23,
+        "selling_price": 17,
+        "discount_percent": 15,
+        "rating": 3.8,
+        "description": "Snowdrop is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Snowdrop in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Bluebell",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+         "zone": "[3,12]",
+        "img_url": "https://tse3.mm.bing.net/th/id/OIP.mcorMp9ZUlIAlUWt56IpWAHaEJ?pid=Api&P=0&h=180",
+        "price": 26,
+        "selling_price": 19,
+        "discount_percent": 20,
+        "rating": 4.1,
+        "description": "Bluebell is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Bluebell in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Gardenia",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse2.mm.bing.net/th/id/OIP.6zzrSrLh0heB3Df3YqnjMAHaEo?pid=Api&P=0&h=180",
+        "price": 29,
+        "selling_price": 21,
+        "discount_percent": 25,
+        "rating": 4.4,
+        "description": "Gardenia is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Gardenia in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Camellia",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse2.mm.bing.net/th/id/OIP.Ij2M1PunyHdblZWVbXUTXQHaFF?pid=Api&P=0&h=180",
+        "price": 32,
+        "selling_price": 23,
+        "discount_percent": 30,
+        "rating": 4.7,
+        "description": "Camellia is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Camellia in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Freesia",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+         "zone": "[3,12]",
+        "img_url": "https://i.pinimg.com/originals/bc/f6/47/bcf6475d6cf7b14a15c7b391c66c994a.jpg",
+        "price": 35,
+        "selling_price": 25,
+        "discount_percent": 10,
+        "rating": 3.5,
+        "description": "Freesia is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Freesia in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Iris",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse3.mm.bing.net/th/id/OIP.f1hFM6s5FeYJ5ic5SJJ8HwAAAA?pid=Api&P=0&h=180",
+        "price": 38,
+        "selling_price": 27,
+        "discount_percent": 15,
+        "rating": 3.8,
+        "description": "Iris is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Iris in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Lilac",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse1.mm.bing.net/th/id/OIP.LhYFZIDw_ZHgu9GpxwCtewAAAA?pid=Api&P=0&h=180",
+        "price": 41,
+        "selling_price": 29,
+        "discount_percent": 20,
+        "rating": 4.1,
+        "description": "Lilac is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Lilac in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Oleander",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+         "zone": "[3,12]",
+        "img_url": "https://tse1.mm.bing.net/th/id/OIP.TvyhQgqfsG0rjpvopcu3UQHaIH?pid=Api&P=0&h=180",
+        "price": 44,
+        "selling_price": 31,
+        "discount_percent": 25,
+        "rating": 4.4,
+        "description": "Oleander is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Oleander in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Foxglove",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+         "zone": "[3,12]",
+        "img_url": "https://tse1.mm.bing.net/th/id/OIP.HLONJqATU87x86bvVGtBWAHaF_?pid=Api&P=0&h=180",
+        "price": 47,
+        "selling_price": 33,
+        "discount_percent": 30,
+        "rating": 4.7,
+        "description": "Foxglove is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Foxglove in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Primrose",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse1.mm.bing.net/th/id/OIP.Onhphgp30S-FI5I5UzVv5uwHaLw?pid=Api&P=0&h=180",
+        "price": 20,
+        "selling_price": 15,
+        "discount_percent": 10,
+        "rating": 3.5,
+        "description": "Primrose is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Primrose in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Geranium",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse2.mm.bing.net/th/id/OIP.Mm88OVo84iQUWHpOenRejAHaE7?pid=Api&P=0&h=180",
+        "price": 23,
+        "selling_price": 17,
+        "discount_percent": 15,
+        "rating": 3.8,
+        "description": "Geranium is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Geranium in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Cosmos",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse2.mm.bing.net/th/id/OIP.yJIOZLpTNFeu6hAy9pSqsAHaLH?pid=Api&P=0&h=180",
+        "price": 26,
+        "selling_price": 19,
+        "discount_percent": 20,
+        "rating": 4.1,
+        "description": "Cosmos is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Cosmos in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Gladiolus",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse3.mm.bing.net/th/id/OIP.UD7kgQ_TnYqNjIEzTxg7sgHaI8?pid=Api&P=0&h=180",
+        "price": 29,
+        "selling_price": 21,
+        "discount_percent": 25,
+        "rating": 4.4,
+        "description": "Gladiolus is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Gladiolus in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Hydrangea",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse1.mm.bing.net/th/id/OIP.bH9x_ujICdrp-AHpmlCZdQHaJQ?pid=Api&P=0&h=180",
+        "price": 32,
+        "selling_price": 23,
+        "discount_percent": 30,
+        "rating": 4.7,
+        "description": "Hydrangea is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Hydrangea in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Impatiens",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse3.mm.bing.net/th/id/OIP.EnFgUeWuWeMEHFtup3c3kAHaHa?pid=Api&P=0&h=180",
+        "price": 35,
+        "selling_price": 25,
+        "discount_percent": 10,
+        "rating": 3.5,
+        "description": "Impatiens is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Impatiens in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Canna",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse1.mm.bing.net/th/id/OIP.d6gnDZsct8kiH1Evb23vRQHaLH?pid=Api&P=0&h=180",
+        "price": 38,
+        "selling_price": 27,
+        "discount_percent": 15,
+        "rating": 3.8,
+        "description": "Canna is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Canna in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Aster",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse1.mm.bing.net/th/id/OIP.zzMgxPnFYghpw_krUJamgQHaGv?pid=Api&P=0&h=180",
+        "price": 41,
+        "selling_price": 29,
+        "discount_percent": 20,
+        "rating": 4.1,
+        "description": "Aster is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Aster in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Verbena",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse1.mm.bing.net/th/id/OIP.j9t7oVwLJONYFNUs6Gi-LAHaE8?pid=Api&P=0&h=180",
+        "price": 44,
+        "selling_price": 31,
+        "discount_percent": 25,
+        "rating": 4.4,
+        "description": "Verbena is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Verbena in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Sweet Pea",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://s-media-cache-ak0.pinimg.com/originals/ce/45/85/ce458584741350068c31b41f8c32641c.jpg",
+        "price": 47,
+        "selling_price": 33,
+        "discount_percent": 30,
+        "rating": 4.7,
+        "description": "Sweet Pea is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Sweet Pea in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Morning Glory",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "http://1.bp.blogspot.com/-b1Fj7WPdul8/Upk2pvr-DEI/AAAAAAAASW8/K11OPhgLz9w/s1600/morning+glory+jardin-pots-pot-cobee.jpg",
+        "price": 20,
+        "selling_price": 15,
+        "discount_percent": 10,
+        "rating": 3.5,
+        "description": "Morning Glory is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Morning Glory in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Gazania",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse2.mm.bing.net/th/id/OIP.cqXNnVXMKMIlzYk-Aq-0UgHaFt?pid=Api&P=0&h=180",
+        "price": 23,
+        "selling_price": 17,
+        "discount_percent": 15,
+        "rating": 3.8,
+        "description": "Gazania is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Gazania enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Gazania in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Snapdragon",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse2.mm.bing.net/th/id/OIP.JTg1GrpRK1D68SA03JVpQQHaLJ?pid=Api&P=0&h=180",
+        "price": 26,
+        "selling_price": 19,
+        "discount_percent": 20,
+        "rating": 4.1,
+        "description": "Snapdragon is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Snapdragon enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Snapdragon in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Buttercup",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse3.mm.bing.net/th/id/OIP.21fZEr7DYbKJJgWOluPafAHaK_?pid=Api&P=0&h=180",
+        "price": 29,
+        "selling_price": 21,
+        "discount_percent": 25,
+        "rating": 4.4,
+        "description": "Buttercup is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Buttercup enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Buttercup in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Bachelor’s Button",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse4.mm.bing.net/th/id/OIP.txWPM72QH43kouigDfzQ6QHaFj?pid=Api&P=0&h=180",
+        "price": 32,
+        "selling_price": 23,
+        "discount_percent": 30,
+        "rating": 4.7,
+        "description": "Bachelor’s Button is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Bachelor’s Button enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Bachelor’s Button in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Hollyhock",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse3.mm.bing.net/th/id/OIP.ppUkUBh7ay2NUaOgBS0aOQHaLG?pid=Api&P=0&h=180",
+        "price": 35,
+        "selling_price": 25,
+        "discount_percent": 10,
+        "rating": 3.5,
+        "description": "Hollyhock is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Hollyhock enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Hollyhock in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Anemone",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse2.mm.bing.net/th/id/OIP.FGiCBcsOpc5VsHLqy4J8-AHaHa?pid=Api&P=0&h=180",
+        "price": 38,
+        "selling_price": 27,
+        "discount_percent": 15,
+        "rating": 3.8,
+        "description": "Anemone is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Anemone enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Anemone in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Columbine",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse2.mm.bing.net/th/id/OIP.AuzxG3k5sxQ-KcRaOiQ9JwHaHa?pid=Api&P=0&h=180",
+        "price": 41,
+        "selling_price": 29,
+        "discount_percent": 20,
+        "rating": 4.1,
+        "description": "Columbine is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Columbine enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Columbine in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Coreopsis",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse2.mm.bing.net/th/id/OIP.V4XGKEJ89feAgeg-EBlR0AHaL4?pid=Api&P=0&h=180",
+        "price": 44,
+        "selling_price": 31,
+        "discount_percent": 25,
+        "rating": 4.4,
+        "description": "Coreopsis is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Coreopsis enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Coreopsis in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Gaillardia",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse4.mm.bing.net/th/id/OIP.pkE5gZOFcp4Zz7djYFgMagHaG_?pid=Api&P=0&h=180",
+        "price": 47,
+        "selling_price": 33,
+        "discount_percent": 30,
+        "rating": 4.7,
+        "description": "Gaillardia is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Gaillardia enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Gaillardia in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Heliotrope",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse4.mm.bing.net/th/id/OIP.2MUh5kXjoWsv1Nzbk4yBbQAAAA?pid=Api&P=0&h=180",
+        "price": 20,
+        "selling_price": 15,
+        "discount_percent": 10,
+        "rating": 3.5,
+        "description": "Heliotrope is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Heliotrope enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Heliotrope in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Ranunculus",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse1.mm.bing.net/th/id/OIP.KLqeggCSrLcbktZ_3pvQUgHaHa?pid=Api&P=0&h=180",
+        "price": 23,
+        "selling_price": 17,
+        "discount_percent": 15,
+        "rating": 3.8,
+        "description": "Ranunculus is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Ranunculus enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Ranunculus in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Scabiosa",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse4.mm.bing.net/th/id/OIP.3PkXNP3PR9jfVmlyKuDgAAHaL7?pid=Api&P=0&h=180",
+        "price": 26,
+        "selling_price": 19,
+        "discount_percent": 20,
+        "rating": 4.1,
+        "description": "Scabiosa is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Scabiosa enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Scabiosa in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Yarrow",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse2.mm.bing.net/th/id/OIP.ImWr6YV2jAEkER9_A90GKwHaHa?pid=Api&P=0&h=180",
+        "price": 29,
+        "selling_price": 21,
+        "discount_percent": 25,
+        "rating": 4.4,
+        "description": "Yarrow is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Yarrow enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Yarrow in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Amaryllis",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse1.mm.bing.net/th/id/OIP.gINRac4N3AJCqwPhy2WqqQHaHa?pid=Api&P=0&h=180",
+        "price": 32,
+        "selling_price": 23,
+        "discount_percent": 30,
+        "rating": 4.7,
+        "description": "Amaryllis is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Amaryllis enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Amaryllis in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Crocosmia",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse2.mm.bing.net/th/id/OIP.vnbr4YwhIq7-4C1ChL360wHaJa?pid=Api&P=0&h=180",
+        "price": 35,
+        "selling_price": 25,
+        "discount_percent": 10,
+        "rating": 3.5,
+        "description": "Crocosmia is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Crocosmia enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Crocosmia in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Lantana",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse1.mm.bing.net/th/id/OIP.ej7hPSncOKTUUAlW6ncb-wHaJ4?pid=Api&P=0&h=180",
+        "price": 38,
+        "selling_price": 27,
+        "discount_percent": 15,
+        "rating": 3.8,
+        "description": "Lantana is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Lantana enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Lantana in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Nasturtium",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse4.mm.bing.net/th/id/OIP.r5-KFO8sYZ_-fWjCd309nQHaFc?pid=Api&P=0&h=180",
+        "price": 41,
+        "selling_price": 29,
+        "discount_percent": 20,
+        "rating": 4.1,
+        "description": "Nasturtium is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Nasturtium enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Nasturtium in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Salvia",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse2.mm.bing.net/th/id/OIP.kfzbfj2UDNp3LkPNcFIl9AHaLH?pid=Api&P=0&h=180",
+        "price": 44,
+        "selling_price": 31,
+        "discount_percent": 25,
+        "rating": 4.4,
+        "description": "Salvia is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Salvia enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Salvia in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Phlox",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse4.mm.bing.net/th/id/OIP.TtJqJtWhSIStGneqqoz8xAHaJQ?pid=Api&P=0&h=180",
+        "price": 47,
+        "selling_price": 33,
+        "discount_percent": 30,
+        "rating": 4.7,
+        "description": "Phlox is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Phlox enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Phlox in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Stock",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse2.mm.bing.net/th/id/OIP.WkbVmTMuL11R4S8VblXCZwHaEK?pid=Api&P=0&h=180",
+        "price": 20,
+        "selling_price": 15,
+        "discount_percent": 10,
+        "rating": 3.5,
+        "description": "Stock is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Stock enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Stock in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Tithonia",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse4.mm.bing.net/th/id/OIP.yNKOVnnNRIeQdr_GvF6CUQAAAA?pid=Api&P=0&h=180",
+        "price": 23,
+        "selling_price": 17,
+        "discount_percent": 15,
+        "rating": 3.8,
+        "description": "Tithonia is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Tithonia enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Tithonia in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Torenia",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse4.mm.bing.net/th/id/OIP.2O1gtj8KpvcXdV2r8umsAQHaIC?pid=Api&P=0&h=180",
+        "price": 26,
+        "selling_price": 19,
+        "discount_percent": 20,
+        "rating": 4.1,
+        "description": "Torenia is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Torenia enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Torenia in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Wax Begonia",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse3.mm.bing.net/th/id/OIP.Bx8r4TuTtArsRpsfSOjE8AHaHY?pid=Api&P=0&h=180",
+        "price": 29,
+        "selling_price": 21,
+        "discount_percent": 25,
+        "rating": 4.4,
+        "description": "Wax Begonia is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Wax Begonia enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Wax Begonia in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Periwinkle",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse2.mm.bing.net/th/id/OIP.IFGfQI7JsqqLB7xylb0ZAwHaJ4?pid=Api&P=0&h=180",
+        "price": 32,
+        "selling_price": 23,
+        "discount_percent": 30,
+        "rating": 4.7,
+        "description": "Periwinkle is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Periwinkle enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Periwinkle in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Coneflower",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse2.mm.bing.net/th/id/OIP.cGV5HTVZbXjUhFt9Jtgh7AHaLJ?pid=Api&P=0&h=180",
+        "price": 35,
+        "selling_price": 25,
+        "discount_percent": 10,
+        "rating": 3.5,
+        "description": "Coneflower is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Coneflower enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Coneflower in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Black-eyed Susan",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse4.mm.bing.net/th/id/OIP.vCkhFLGi-y2hXudMGxvX0AHaJ4?pid=Api&P=0&h=180",
+        "price": 38,
+        "selling_price": 27,
+        "discount_percent": 15,
+        "rating": 3.8,
+        "description": "Black-eyed Susan is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Black-eyed Susan enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Black-eyed Susan in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Goldenrod",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse1.mm.bing.net/th/id/OIP.dCaccld68cR2t6bOmY_qeAHaHa?pid=Api&P=0&h=180",
+        "price": 41,
+        "selling_price": 29,
+        "discount_percent": 20,
+        "rating": 4.1,
+        "description": "Goldenrod is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Goldenrod enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Goldenrod in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Sweet William",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse3.mm.bing.net/th/id/OIP.WV6vPTTteEAP8rvLNQTRCAHaFj?pid=Api&P=0&h=180",
+        "price": 44,
+        "selling_price": 31,
+        "discount_percent": 25,
+        "rating": 4.4,
+        "description": "Sweet William is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Sweet William enhances outdoor and indoor spaces",
+            " supports pollinators, and improves air quality."
+        ],
+        "steps_to_grow": [
+            "Plant Sweet William in well-drained soil",
+            " provide adequate sunlight, water moderately",
+            "and prune when needed."
+        ]
+    },
+    {
+        "common_name": "Angelonia",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse1.mm.bing.net/th/id/OIP.uAP5q0WUhIUjyHvDKrJdDgHaLJ?pid=Api&P=0&h=180",
+        "price": 47,
+        "selling_price": 33,
+        "discount_percent": 30,
+        "rating": 4.7,
+        "description": "Angelonia is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Angelonia enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Angelonia in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Bleeding Heart",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse1.mm.bing.net/th/id/OIP.28nqwljOQ1BLlgX9C5Kv-wHaHa?pid=Api&P=0&h=180",
+        "price": 20,
+        "selling_price": 15,
+        "discount_percent": 10,
+        "rating": 3.5,
+        "description": "Bleeding Heart is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Bleeding Heart enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Bleeding Heart in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Calendula",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse4.mm.bing.net/th/id/OIP.r4KOmSVYqz1raLDg5tBd-wHaFj?pid=Api&P=0&h=180",
+        "price": 23,
+        "selling_price": 17,
+        "discount_percent": 15,
+        "rating": 3.8,
+        "description": "Calendula is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Calendula enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Calendula in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Calla Lily",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse3.mm.bing.net/th/id/OIP.9PqiK1ccSsTHK2Yn5Vg8bgHaNK?pid=Api&P=0&h=180",
+        "price": 26,
+        "selling_price": 19,
+        "discount_percent": 20,
+        "rating": 4.1,
+        "description": "Calla Lily is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Calla Lily enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Calla Lily in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Cape Daisy",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse4.mm.bing.net/th/id/OIP.VqZeUMk_WRVKjdEl-D3NKAHaHa?pid=Api&P=0&h=180",
+        "price": 29,
+        "selling_price": 21,
+        "discount_percent": 25,
+        "rating": 4.4,
+        "description": "Cape Daisy is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Cape Daisy enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Cape Daisy in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Delphinium",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse2.mm.bing.net/th/id/OIP.ZEpopA3ttb9Po_Lb7IF_UgHaLH?pid=Api&P=0&h=180",
+        "price": 32,
+        "selling_price": 23,
+        "discount_percent": 30,
+        "rating": 4.7,
+        "description": "Delphinium is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Delphinium enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Delphinium in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Hosta Flower",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://i.pinimg.com/originals/67/3e/5b/673e5b7f43f501a1735cd0b8a35f8592.jpg",
+        "price": 35,
+        "selling_price": 25,
+        "discount_percent": 10,
+        "rating": 3.5,
+        "description": "Hosta Flower is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Hosta Flower enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Hosta Flower in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Jacob’s Ladder",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse4.mm.bing.net/th/id/OIP.mYPMYnnhMP-ecJk3ZUYr4wHaHa?pid=Api&P=0&h=180",
+        "price": 38,
+        "selling_price": 27,
+        "discount_percent": 15,
+        "rating": 3.8,
+        "description": "Jacob’s Ladder is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Jacob’s Ladder enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Jacob’s Ladder in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Lobelia",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse4.mm.bing.net/th/id/OIP.ruXbu8kAXouGT9dpXaseGgHaIX?pid=Api&P=0&h=180",
+        "price": 41,
+        "selling_price": 29,
+        "discount_percent": 20,
+        "rating": 4.1,
+        "description": "Lobelia is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Lobelia enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Lobelia in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Monkey Flower",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse1.mm.bing.net/th/id/OIP.YxTujtK-u9v_jGET47OphgHaHa?pid=Api&P=0&h=180",
+        "price": 44,
+        "selling_price": 31,
+        "discount_percent": 25,
+        "rating": 4.4,
+        "description": "Monkey Flower is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Monkey Flower enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Monkey Flower in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Nicotiana",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse1.mm.bing.net/th/id/OIP.0GKqix9_M-FUnIL9f3KwzwHaLH?pid=Api&P=0&h=180",
+        "price": 47,
+        "selling_price": 33,
+        "discount_percent": 30,
+        "rating": 4.7,
+        "description": "Nicotiana is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Nicotiana enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Nicotiana in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Penstemon",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse1.mm.bing.net/th/id/OIP.YqxdWg_p_5aHAcH-EMqsTAHaEJ?pid=Api&P=0&h=180",
+        "price": 20,
+        "selling_price": 15,
+        "discount_percent": 10,
+        "rating": 3.5,
+        "description": "Penstemon is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Penstemon enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Penstemon in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Queen Anne’s Lace",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse2.mm.bing.net/th/id/OIP.DCgFRNXsKlDaQNY5wWMrxAHaEK?pid=Api&P=0&h=180",
+        "price": 23,
+        "selling_price": 17,
+        "discount_percent": 15,
+        "rating": 3.8,
+        "description": "Queen Anne’s Lace is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Queen Anne’s Lace enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Queen Anne’s Lace in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Red Hot Poker",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://balconygardenweb.b-cdn.net/wp-content/uploads/2023/04/Red-Hot-Poker1111.jpg",
+        "price": 26,
+        "selling_price": 19,
+        "discount_percent": 20,
+        "rating": 4.1,
+        "description": "Red Hot Poker is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Red Hot Poker enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Red Hot Poker in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Sea Thrift",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://m.media-amazon.com/images/I/711tLC9wvYL.jpg",
+        "price": 29,
+        "selling_price": 21,
+        "discount_percent": 25,
+        "rating": 4.4,
+        "description": "Sea Thrift is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Sea Thrift enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Sea Thrift in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Spider Lily",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://www.planetnatural.com/wp-content/uploads/2023/08/Lycoris-radiata-in-full-bloom-1024x576.jpg",
+        "price": 32,
+        "selling_price": 23,
+        "discount_percent": 30,
+        "rating": 4.7,
+        "description": "Spider Lily is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Spider Lily enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Spider Lily in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Star Jasmine",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse3.mm.bing.net/th/id/OIP.acgT_1sOeGpC6TSH0c163wHaFj?pid=Api&P=0&h=180",
+        "price": 35,
+        "selling_price": 25,
+        "discount_percent": 10,
+        "rating": 3.5,
+        "description": "Star Jasmine is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Star Jasmine enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Star Jasmine in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Tiger Lily",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://i.ytimg.com/vi/362pi1IcObA/hqdefault.jpg",
+        "price": 38,
+        "selling_price": 27,
+        "discount_percent": 15,
+        "rating": 3.8,
+        "description": "Tiger Lily is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Tiger Lily enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Tiger Lily in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Trumpet Vine",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse4.mm.bing.net/th/id/OIP.-jLZY7FM-pIKPeQdOfiBGwHaEJ?pid=Api&P=0&h=180",
+        "price": 41,
+        "selling_price": 29,
+        "discount_percent": 20,
+        "rating": 4.1,
+        "description": "Trumpet Vine is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Trumpet Vine enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Trumpet Vine in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Verbascum",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://thumbs.dreamstime.com/b/graceful-verbascum-pot-isolated-white-beautiful-potted-verbascum-plant-isolated-white-background-delicate-yellow-369324791.jpg",
+        "price": 44,
+        "selling_price": 31,
+        "discount_percent": 25,
+        "rating": 4.4,
+        "description": "Verbascum is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Verbascum enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Verbascum in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Wisteria",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse1.mm.bing.net/th/id/OIP.Lq5d0EP_HSt88HHcXgpIOwHaHa?pid=Api&P=0&h=180",
+        "price": 47,
+        "selling_price": 33,
+        "discount_percent": 30,
+        "rating": 4.7,
+        "description": "Wisteria is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Wisteria enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Wisteria in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Yellow Bells",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse1.mm.bing.net/th/id/OIP.k7gaAVaB1hPLbIU2yI_xbgHaHx?pid=Api&P=0&h=180",
+        "price": 20,
+        "selling_price": 15,
+        "discount_percent": 10,
+        "rating": 3.5,
+        "description": "Yellow Bells is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Yellow Bells enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Yellow Bells in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Zebra Mallow",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse3.mm.bing.net/th/id/OIP._7oBvHxbbF3nWGwdvp5HIAHaHa?pid=Api&P=0&h=180",
+        "price": 23,
+        "selling_price": 17,
+        "discount_percent": 15,
+        "rating": 3.8,
+        "description": "Zebra Mallow is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Zebra Mallow enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Zebra Mallow in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Ageratum",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse2.mm.bing.net/th/id/OIP.OS1H8vi8LjL5OFUbFL-3ZgHaLH?pid=Api&P=0&h=180",
+        "price": 26,
+        "selling_price": 19,
+        "discount_percent": 20,
+        "rating": 4.1,
+        "description": "Ageratum is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Ageratum enhances outdoor and indoor spaces",
+            "Supports pollinators",
+            "Improves air quality"
+        ],
+        "steps_to_grow": [
+            "Plant Ageratum in well-drained soil",
+            "Provide adequate sunlight",
+            "Water moderately",
+            "Prune when needed"
+        ]
+    },
+    {
+        "common_name": "Statice",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse3.mm.bing.net/th/id/OIP.r_V1eqasIZoPOKaG2CBHZQHaEJ?pid=Api&P=0&h=180",
+        "price": 29,
+        "selling_price": 21,
+        "discount_percent": 25,
+        "rating": 4.4,
+        "description": "Statice is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Statice enhances outdoor and indoor spaces",
+            "Supports pollinators like bees and butterflies",
+            "Improves air quality",
+            "Adds vibrant color to gardens and floral arrangements"
+        ],
+        "steps_to_grow": [
+            "Plant Statice in well-drained soil",
+            "Provide adequate sunlight (full sun preferred)",
+            "Water moderately, avoiding overwatering",
+            "Prune or deadhead spent flowers to encourage growth",
+            "Protect from frost during extreme cold"
+        ]
+    },
+    {
+        "common_name": "Flax Flower",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse4.mm.bing.net/th/id/OIP.eblJw1XIA6lcfT7rMG9yvQHaFt?pid=Api&P=0&h=180",
+        "price": 32,
+        "selling_price": 23,
+        "discount_percent": 30,
+        "rating": 4.7,
+        "description": "Flax Flower is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Flax Flower enhances outdoor and indoor spaces",
+            "Supports pollinators such as bees and butterflies",
+            "Improves air quality",
+            "Adds delicate beauty to garden landscapes"
+        ],
+        "steps_to_grow": [
+            "Plant Flax Flower in well-drained soil",
+            "Provide adequate sunlight (full sun recommended)",
+            "Water moderately and avoid waterlogging",
+            "Prune or trim when needed to maintain shape",
+            "Protect from extreme cold if required"
+        ]
+    },
+    {
+        "common_name": "Ice Plant",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://agribotix.com/wp-content/uploads/2024/05/Best-Plants-for-Small-Pots.jpg",
+        "price": 35,
+        "selling_price": 25,
+        "discount_percent": 10,
+        "rating": 3.5,
+        "description": "Ice Plant is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Ice Plant enhances outdoor and indoor spaces",
+            "Supports pollinators such as bees and butterflies",
+            "Improves air quality",
+            "Adds vibrant color with its bright flowers"
+        ],
+        "steps_to_grow": [
+            "Plant Ice Plant in well-drained soil",
+            "Provide adequate sunlight, preferably full sun",
+            "Water moderately and avoid overwatering",
+            "Prune when needed to maintain compact growth",
+            "Protect from frost in colder climates"
+        ]
+    },
+    {
+        "common_name": "Baby Blue Eyes",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://cdn.mos.cms.futurecdn.net/xF3pHYKPUCsJFTrAWJdYEi.jpg",
+        "price": 38,
+        "selling_price": 27,
+        "discount_percent": 15,
+        "rating": 3.8,
+        "description": "Baby Blue Eyes is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Baby Blue Eyes enhances outdoor and indoor spaces",
+            "Supports pollinators such as bees and butterflies",
+            "Improves air quality",
+            "Adds charm with its soft blue flowers"
+        ],
+        "steps_to_grow": [
+            "Plant Baby Blue Eyes in well-drained soil",
+            "Provide adequate sunlight, preferably partial to full sun",
+            "Water moderately and keep the soil slightly moist",
+            "Prune lightly to maintain healthy growth",
+            "Protect from harsh heat during peak summer"
+        ]
+    },
+    {
+        "common_name": "Bush Violet",
+        "family": "Unknown",
+        "categories": "Flower",
+        "origin": "Global",
+        "climate": "Tropical to Temperate",
+        "zone": "[3,12]",
+        "img_url": "https://tse3.mm.bing.net/th/id/OIP.6we9MtRlAOJklAPwoazm8QHaGI?pid=Api&P=0&h=180",
+        "price": 41,
+        "selling_price": 29,
+        "discount_percent": 20,
+        "rating": 4.1,
+        "description": "Bush Violet is a popular flowering plant known for its beauty and ornamental value.",
+        "benefits": [
+            "Bush Violet enhances outdoor and indoor spaces",
+            "Supports pollinators such as bees and butterflies",
+            "Improves air quality",
+            "Adds vibrant purple blooms to gardens and pots"
+        ],
+        "steps_to_grow": [
+            "Plant Bush Violet in well-drained soil",
+            "Provide adequate sunlight, preferably partial shade",
+            "Water moderately and avoid waterlogging",
+            "Prune lightly to maintain shape and promote blooming",
+            "Protect from harsh afternoon sunlight in hot climates"
+        ]
+    }
+]

@@ -1,0 +1,88 @@
+/* Background */
+.contact-wrapper {
+  min-height: 100vh;
+  padding: 50px 20px;
+  background: linear-gradient(135deg, #e8ffe8, #d1f7e6, #f2fff8);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Header Section */
+.contact-header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.contact-logo {
+  width: 160px;
+  margin-bottom: 10px;
+}
+
+.contact-header h1 {
+  font-size: 32px;
+  color: #064420;
+  margin-bottom: 5px;
+}
+
+.contact-header p {
+  color: #0a5a2a;
+  font-size: 18px;
+}
+
+/* Card Container */
+.contact-cards {
+  display: flex;
+  gap: 30px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+/* Individual Card */
+.contact-card {
+  width: 260px;
+  padding: 25px;
+  background: rgba(255, 255, 255, 0.6);
+  border-radius: 15px;
+  backdrop-filter: blur(10px);
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  transition: 0.3s;
+  border: 1px solid #a8d5b8;
+}
+
+.contact-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.18);
+}
+
+/* Icon */
+.contact-icon {
+  font-size: 40px;
+  color: #0b8457;
+  margin-bottom: 15px;
+}
+
+.contact-card h3 {
+  color: #064420;
+  font-size: 22px;
+  margin-bottom: 8px;
+}
+
+.contact-card p {
+  font-size: 16px;
+  color: #0a5a2a;
+}
+
+.order-button {
+  padding: 10px 25px;
+  background-color: #2e7d32;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.order-button:hover {
+  background-color: #1b5e20;
+}

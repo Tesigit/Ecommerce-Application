@@ -1,0 +1,35 @@
+.order-container {
+  text-align: center;
+  padding: 50px;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #e8f5e9;
+  font-family: "Poppins", sans-serif;
+}
+
+.order-heading {
+  color: #2e7d32;
+  margin-bottom: 20px;
+}
+
+.order-message {
+  color: #555;
+  margin-bottom: 30px;
+  font-size: 18px;
+}
+
+.order-button {
+  padding: 10px 25px;
+  background-color: #2e7d32;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.order-button:hover {
+  background-color: #1b5e20;
+}

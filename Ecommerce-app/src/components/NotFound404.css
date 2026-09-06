@@ -1,0 +1,57 @@
+.nf-body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #e8f5e9;
+  font-family: "Poppins", sans-serif;
+}
+
+.wrapper {
+  text-align: center;
+  padding: 60px;
+  background: #ffffff;
+  border-radius: 30px;
+  box-shadow: 0 12px 25px rgba(0, 0, 0, 0.1);
+}
+
+.leaf {
+  width: 150px;
+  animation: rotate 4s linear infinite;
+}
+
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+h1 {
+  font-size: 75px;
+  margin: 15px 0;
+  color: #1b5e20;
+}
+
+p {
+  color: #555;
+  margin-bottom: 30px;
+}
+
+.btn {
+  padding: 14px 32px;
+  background: #1b5e20;
+  color: white;
+  border-radius: 14px;
+  text-decoration: none;
+  font-size: 18px;
+  transition: 0.3s ease-in-out;
+}
+
+.btn:hover {
+  background: #134417;
+}

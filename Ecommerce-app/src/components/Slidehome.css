@@ -1,0 +1,6 @@
+/* Make carousel arrows black */
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+ 
+  filter: invert(0); /* black */
+}

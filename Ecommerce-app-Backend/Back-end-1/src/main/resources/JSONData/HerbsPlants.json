@@ -1,0 +1,2700 @@
+
+      [  {
+            
+            "common_name": "Coriander",
+            "family": "Poaceae",
+            "categories": "Medicinal Herb",
+            "origin": "Arabian Peninsula",
+            "climate": "Tropical",
+            "zone": "[4, 9]",
+            "img_url": "https://tse3.mm.bing.net/th/id/OIP.uciwuZzKXFbWxjWIjyTLegHaGp?pid=Api&P=0&h=180",
+            "price": 255.36,
+            "selling_price": 196.37,
+            "discount_percent": 26,
+            "rating": 4.8,
+            "description": "Coriander is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },{
+            
+            "common_name": "Stevia",
+            "family": "Poaceae",
+            "categories": "Medicinal Herb",
+            "origin": "Arabian Peninsula",
+            "climate": "Subtropical",
+            "zone": "[4, 7]",
+            "img_url": "https://tse3.mm.bing.net/th/id/OIP.qdI4m6-k7qaZ3oIRAlUZJAAAAA?pid=Api&P=0&h=180",
+            "price": 376.92,
+            "selling_price": 295.31,
+            "discount_percent": 11,
+            "rating": 4.3,
+            "description": "Stevia is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+            
+            "common_name": "Dill",
+            "family": "Apiaceae",
+            "categories": "Medicinal Herb",
+            "origin": "Mediterranean",
+            "climate": "Tropical",
+            "zone": "[7, 10]",
+            "img_url": "https://tse4.mm.bing.net/th/id/OIP.pauJdbAWpFa1KvNctpPFfAHaFc?pid=Api&P=0&h=180",
+            "price": 310.63,
+            "selling_price": 94.26,
+            "discount_percent": 22,
+            "rating": 4.7,
+            "description": "Dill is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+            
+            "common_name": "Bay Leaf",
+            "family": "Lamiaceae",
+            "categories": "Medicinal Herb",
+            "origin": "Europe",
+            "climate": "Dry Tropical",
+            "zone": "[4, 5]",
+            "img_url": "https://sharingideas.me/wp-content/uploads/2023/12/bay-leaf-tree-in-a-pot.webp",
+            "price": 364.73,
+            "selling_price": 269.09,
+            "discount_percent": 32,
+            "rating": 4.0,
+            "description": "Bay Leaf is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+            
+            "common_name": "Ajwain Leaves",
+            "family": "Lamiaceae",
+            "categories": "Herb",
+            "origin": "Sri Lanka",
+            "climate": "Dry Warm",
+            "zone": "[4, 3]",
+            "img_url": "https://tse2.mm.bing.net/th/id/OIP.R0-B6UBmzyj2miYywQveSgAAAA?pid=Api&P=0&h=180",
+            "price": 381.49,
+            "selling_price": 297.09,
+            "discount_percent": 24,
+            "rating": 4.7,
+            "description": "Ajwain Leaves is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+            
+            "common_name": "Oregano",
+            "family": "Lamiaceae",
+            "categories": "Herb",
+            "origin": "Arabian Peninsula",
+            "climate": "Temperate",
+            "zone": "[7, 6]",
+            "img_url": "https://tse4.mm.bing.net/th/id/OIP.MHRnp5U5lO41q9Y8jFGuJAHaHt?pid=Api&P=0&h=180",
+            "price": 278.01,
+            "selling_price": 68.52,
+            "discount_percent": 45,
+            "rating": 4.8,
+            "description": "Oregano is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+        
+            "common_name": "Indian Borage",
+            "family": "Lamiaceae",
+            "categories": "Aromatic Herb",
+            "origin": "Sri Lanka",
+            "climate": "Dry Warm",
+            "zone": "[12, 10]",
+            "img_url": "https://tse1.mm.bing.net/th/id/OIP.0w6RYcUDD6gc4jhTkSoBWQHaJ4?pid=Api&P=0&h=180",
+            "price": 221.79,
+            "selling_price": 268.86,
+            "discount_percent": 11,
+            "rating": 5.0,
+            "description": "Indian Borage is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+            
+            "common_name": "Hibiscus Roselle",
+            "family": "Asphodelaceae",
+            "categories": "Culinary Herb",
+            "origin": "Asia",
+            "climate": "Tropical",
+            "zone": "[5, 5]",
+            "img_url": "https://tse2.mm.bing.net/th/id/OIP.V_SOc3EqUoyhBuu2zxiQZAAAAA?pid=Api&P=0&h=180",
+            "price": 103.41,
+            "selling_price": 277.42,
+            "discount_percent": 45,
+            "rating": 3.5,
+            "description": "Hibiscus Roselle is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+            
+            "common_name": "Thyme",
+            "family": "Lamiaceae",
+            "categories": "Medicinal Herb",
+            "origin": "Sri Lanka",
+            "climate": "Dry Warm",
+            "zone": "[8, 9]",
+            "img_url": "https://tse2.mm.bing.net/th/id/OIP.UkfKKrDuCOmIebwLNWCV5wHaEH?pid=Api&P=0&h=180",
+            "price": 317.07,
+            "selling_price": 62.9,
+            "discount_percent": 11,
+            "rating": 4.7,
+            "description": "Thyme is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+            
+            "common_name": "Curry Leaves",
+            "family": "Lamiaceae",
+            "categories": "Aromatic Herb",
+            "origin": "Sri Lanka",
+            "climate": "Subtropical",
+            "zone": "[9, 7]",
+            "img_url": "https://tse2.mm.bing.net/th/id/OIP.fci96H6sbkWpdKCjeHOCsQHaHa?pid=Api&P=0&h=180",
+            "price": 162.46,
+            "selling_price": 216.78,
+            "discount_percent": 15,
+            "rating": 4.9,
+            "description": "Curry Leaves is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+           
+            "common_name": "Thyme",
+            "family": "Poaceae",
+            "categories": "Aromatic Herb",
+            "origin": "Arabian Peninsula",
+            "climate": "Dry Tropical",
+            "zone": "[5, 12]",
+            "img_url": "https://c8.alamy.com/comp/2BTMCXJ/small-thyme-bush-in-a-pot-2BTMCXJ.jpg",
+            "price": 329.1,
+            "selling_price": 227.45,
+            "discount_percent": 13,
+            "rating": 4.8,
+            "description": "Thyme is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+            
+            "common_name": "Parsley",
+            "family": "Lamiaceae",
+            "categories": "Culinary Herb",
+            "origin": "Asia",
+            "climate": "Temperate",
+            "zone": "[11, 10]",
+            "img_url": "https://tse2.mm.bing.net/th/id/OIP.uwMu93rOXlAY0ypHmjGFowHaJ4?pid=Api&P=0&h=180",
+            "price": 227.85,
+            "selling_price": 234.57,
+            "discount_percent": 19,
+            "rating": 4.7,
+            "description": "Parsley is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+           
+            "common_name": "Holy Basil",
+            "family": "Lamiaceae",
+            "categories": "Medicinal Herb",
+            "origin": "India",
+            "climate": "Dry Warm",
+            "zone": "[3, 3]",
+            "img_url": "https://tse1.mm.bing.net/th/id/OIP.8rZt9dqcpnhBY8QmAkytTQHaHa?pid=Api&P=0&h=180",
+            "price": 133.59,
+            "selling_price": 107.51,
+            "discount_percent": 26,
+            "rating": 3.8,
+            "description": "Holy Basil is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+            
+            "common_name": "Lemon Balm",
+            "family": "Apiaceae",
+            "categories": "Medicinal Herb",
+            "origin": "Asia",
+            "climate": "Tropical",
+            "zone": "[6, 5]",
+            "img_url": "https://tse2.mm.bing.net/th/id/OIP.-p6xthJU94MLqz7B44yvNAHaFj?pid=Api&P=0&h=180",
+            "price": 221.66,
+            "selling_price": 218.94,
+            "discount_percent": 18,
+            "rating": 3.7,
+            "description": "Lemon Balm is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+            
+            "common_name": "Bay Leaf",
+            "family": "Poaceae",
+            "categories": "Medicinal Herb",
+            "origin": "Asia",
+            "climate": "Dry Warm",
+            "zone": "[10, 7]",
+            "img_url": "https://sharingideas.me/wp-content/uploads/2023/12/bay-leaf-tree-in-a-pot.webp",
+            "price": 254.4,
+            "selling_price": 131.94,
+            "discount_percent": 14,
+            "rating": 3.6,
+            "description": "Bay Leaf is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+         
+            "common_name": "Bay Leaf",
+            "family": "Poaceae",
+            "categories": "Aromatic Herb",
+            "origin": "India",
+            "climate": "Tropical",
+            "zone": "[9, 3]",
+            "img_url": "https://www.littleyellowwheelbarrow.com/wp-content/uploads/2021/07/bay-leaf-plant-care-8-scaled.jpg",
+            "price": 341.46,
+            "selling_price": 139.87,
+            "discount_percent": 44,
+            "rating": 4.1,
+            "description": "Bay Leaf is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+            
+            "common_name": "Bay Leaf",
+            "family": "Apiaceae",
+            "categories": "Medicinal Herb",
+            "origin": "Sri Lanka",
+            "climate": "Dry Warm",
+            "zone": "[8, 10]",
+            "img_url": "https://gardenary-data.s3.amazonaws.com/section-image/W697VNQx1VBrPuLHFnB3hd5ptueDn3JZQWSMfGIu.jpg",
+            "price": 275.91,
+            "selling_price": 240.02,
+            "discount_percent": 15,
+            "rating": 4.6,
+            "description": "Bay Leaf is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+            
+            "common_name": "Mint",
+            "family": "Apiaceae",
+            "categories": "Herb",
+            "origin": "India",
+            "climate": "Dry Tropical",
+            "zone": "[3, 7]",
+            "img_url": "https://tse2.mm.bing.net/th/id/OIP.MtcGS3zKtkAph-3zs6IHlAAAAA?pid=Api&P=0&h=180",
+            "price": 275.32,
+            "selling_price": 62.38,
+            "discount_percent": 38,
+            "rating": 4.5,
+            "description": "Mint is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+            
+            "common_name": "Feverfew",
+            "family": "Apiaceae",
+            "categories": "Herb",
+            "origin": "India",
+            "climate": "Tropical",
+            "zone": "[10, 8]",
+            "img_url": "https://tse2.mm.bing.net/th/id/OIP._1b--8AiSs7MjS-pM2tmhAHaKj?pid=Api&P=0&h=180",
+            "price": 293.0,
+            "selling_price": 245.9,
+            "discount_percent": 31,
+            "rating": 3.9,
+            "description": "Feverfew is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+           
+            "common_name": "Oregano",
+            "family": "Asphodelaceae",
+            "categories": "Medicinal Herb",
+            "origin": "Arabian Peninsula",
+            "climate": "Dry Warm",
+            "zone": "[9, 11]",
+            "img_url": "https://thumbs.dreamstime.com/b/plant-appeal-to-buyers-interested-oregano-small-leaves-pot-rustic-style-white-background-387951083.jpg?w=992",
+            "price": 185.52,
+            "selling_price": 84.69,
+            "discount_percent": 45,
+            "rating": 4.4,
+            "description": "Oregano is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+           
+            "common_name": "Aloe Vera",
+            "family": "Apiaceae",
+            "categories": "Aromatic Herb",
+            "origin": "Arabian Peninsula",
+            "climate": "Dry Tropical",
+            "zone": "[4, 9]",
+            "img_url": "https://tse3.mm.bing.net/th/id/OIP.o3EK--8B4YXphWjt6K9tJAHaLH?pid=Api&P=0&h=180",
+            "price": 307.44,
+            "selling_price": 213.27,
+            "discount_percent": 31,
+            "rating": 4.2,
+            "description": "Aloe Vera is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+            
+            "common_name": "Lavender",
+            "family": "Asphodelaceae",
+            "categories": "Herb",
+            "origin": "Europe",
+            "climate": "Temperate",
+            "zone": "[7, 3]",
+            "img_url": "https://tse2.mm.bing.net/th/id/OIP.YAod05B5ZS-H4qjsFUFNHAHaHa?pid=Api&P=0&h=180",
+            "price": 356.02,
+            "selling_price": 190.4,
+            "discount_percent": 42,
+            "rating": 4.8,
+            "description": "Lavender is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+            
+            "common_name": "Oregano",
+            "family": "Asphodelaceae",
+            "categories": "Culinary Herb",
+            "origin": "Arabian Peninsula",
+            "climate": "Subtropical",
+            "zone": "[9, 8]",
+            "img_url": "https://thumbs.dreamstime.com/b/ai-generated-small-herb-pot-oregano-growing-indoors-small-herb-pot-oregano-growing-indoors-358173812.jpg",
+            "price": 151.24,
+            "selling_price": 107.57,
+            "discount_percent": 22,
+            "rating": 4.3,
+            "description": "Oregano is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+            
+            "common_name": "Hibiscus Roselle",
+            "family": "Poaceae",
+            "categories": "Medicinal Herb",
+            "origin": "Mediterranean",
+            "climate": "Temperate",
+            "zone": "[6, 3]",
+            "img_url": "https://tse1.mm.bing.net/th/id/OIP.1taw-mC_qd2KzmpvBLR0uAHaMt?pid=Api&P=0&h=180",
+            "price": 309.77,
+            "selling_price": 294.9,
+            "discount_percent": 11,
+            "rating": 4.4,
+            "description": "Hibiscus Roselle is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+          
+            "common_name": "Gotu Kola",
+            "family": "Lamiaceae",
+            "categories": "Aromatic Herb",
+            "origin": "India",
+            "climate": "Subtropical",
+            "zone": "[8, 11]",
+            "img_url": "https://tse2.mm.bing.net/th/id/OIP.XdFkwM4beolaBYqkST0CQwHaFa?pid=Api&P=0&h=180",
+            "price": 397.9,
+            "selling_price": 144.04,
+            "discount_percent": 38,
+            "rating": 4.7,
+            "description": "Gotu Kola is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+        
+            "common_name": "Lemon Balm",
+            "family": "Asphodelaceae",
+            "categories": "Aromatic Herb",
+            "origin": "Asia",
+            "climate": "Tropical",
+            "zone": "[7, 9]",
+            "img_url": "https://plantscraze.com/wp-content/uploads/2022/06/Lemon-Balm-growing-in-pot.jpeg",
+            "price": 183.33,
+            "selling_price": 170.1,
+            "discount_percent": 20,
+            "rating": 4.9,
+            "description": "Lemon Balm is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+     
+            "common_name": "Thyme",
+            "family": "Asphodelaceae",
+            "categories": "Culinary Herb",
+            "origin": "Europe",
+            "climate": "Dry Tropical",
+            "zone": "[5, 6]",
+            "img_url": "https://doa.gov.ky/wp-content/uploads/2023/06/simplyherbs_thymus_vulgaris.jpg",
+            "price": 205.03,
+            "selling_price": 275.73,
+            "discount_percent": 17,
+            "rating": 4.4,
+            "description": "Thyme is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+        
+            "common_name": "Lemon Balm",
+            "family": "Lamiaceae",
+            "categories": "Aromatic Herb",
+            "origin": "Arabian Peninsula",
+            "climate": "Dry Tropical",
+            "zone": "[8, 11]",
+            "img_url": "https://tse1.mm.bing.net/th/id/OIP.6RMEw78D338-v8GQxHcOtQHaI4?pid=Api&P=0&h=180",
+            "price": 173.64,
+            "selling_price": 132.12,
+            "discount_percent": 19,
+            "rating": 4.2,
+            "description": "Lemon Balm is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+            
+            "common_name": "Lemongrass",
+            "family": "Apiaceae",
+            "categories": "Aromatic Herb",
+            "origin": "Arabian Peninsula",
+            "climate": "Temperate",
+            "zone": "[3, 12]",
+            "img_url": "https://tse2.mm.bing.net/th/id/OIP.FYckzliRmPjzPp0_GukXZgHaF2?pid=Api&P=0&h=180",
+            "price": 304.33,
+            "selling_price": 214.83,
+            "discount_percent": 28,
+            "rating": 4.7,
+            "description": "Lemongrass is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+            
+            "common_name": "Sage",
+            "family": "Lamiaceae",
+            "categories": "Culinary Herb",
+            "origin": "India",
+            "climate": "Subtropical",
+            "zone": "[6, 6]",
+            "img_url": "https://tse4.mm.bing.net/th/id/OIP.pvXwSoy3TtZ6JZHxeoFbNQHaL4?pid=Api&P=0&h=180",
+            "price": 111.96,
+            "selling_price": 115.69,
+            "discount_percent": 29,
+            "rating": 4.1,
+            "description": "Sage is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+           
+            "common_name": "Parsley",
+            "family": "Poaceae",
+            "categories": "Medicinal Herb",
+            "origin": "Sri Lanka",
+            "climate": "Subtropical",
+            "zone": "[4, 4]",
+            "img_url": "https://img.freepik.com/premium-photo/parsley-plant-isolated-with-pot_884296-29559.jpg",
+            "price": 170.53,
+            "selling_price": 201.24,
+            "discount_percent": 40,
+            "rating": 4.9,
+            "description": "Parsley is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+            
+            "common_name": "Indian Borage",
+            "family": "Asphodelaceae",
+            "categories": "Herb",
+            "origin": "Asia",
+            "climate": "Temperate",
+            "zone": "[3, 6]",
+            "img_url": "https://tse1.mm.bing.net/th/id/OIP.Kzr1GxMv9CMZipZDnf39ugHaHa?pid=Api&P=0&h=180",
+            "price": 362.92,
+            "selling_price": 269.7,
+            "discount_percent": 44,
+            "rating": 3.6,
+            "description": "Indian Borage is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+         
+            "common_name": "Curry Leaves",
+            "family": "Apiaceae",
+            "categories": "Culinary Herb",
+            "origin": "Europe",
+            "climate": "Dry Tropical",
+            "zone": "[11, 9]",
+            "img_url": "https://balconygardenweb.b-cdn.net/wp-content/uploads/2023/02/How-to-Grow-Curry-Tree-Easily-in-Containers2.jpg",
+            "price": 287.82,
+            "selling_price": 150.77,
+            "discount_percent": 22,
+            "rating": 4.3,
+            "description": "Curry Leaves is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+            
+            "common_name": "Dill",
+            "family": "Asphodelaceae",
+            "categories": "Aromatic Herb",
+            "origin": "Europe",
+            "climate": "Dry Tropical",
+            "zone": "[11, 5]",
+            "img_url": "https://sharingideas.me/wp-content/uploads/2023/12/grow-dill-in-pot.webp",
+            "price": 236.58,
+            "selling_price": 294.96,
+            "discount_percent": 34,
+            "rating": 4.0,
+            "description": "Dill is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+     
+            "common_name": "Thyme",
+            "family": "Asphodelaceae",
+            "categories": "Aromatic Herb",
+            "origin": "Europe",
+            "climate": "Temperate",
+            "zone": "[6, 11]",
+            "img_url": "https://c8.alamy.com/comp/2PH1BW1/plant-pot-with-a-fresh-thyme-plant-isolated-on-white-background-2PH1BW1.jpg",
+            "price": 368.73,
+            "selling_price": 284.66,
+            "discount_percent": 28,
+            "rating": 3.8,
+            "description": "Thyme is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+            
+            "common_name": "Dill",
+            "family": "Asphodelaceae",
+            "categories": "Aromatic Herb",
+            "origin": "Asia",
+            "climate": "Dry Warm",
+            "zone": "[7, 12]",
+            "img_url": "https://www.theonlinegardencenter.com/hubfs/Generated%20Blog%20Post%20Images/A%20vibrant%20pot%20of%20dill%20thriving%20on%20a%20sunny%20windowsi.png",
+            "price": 351.98,
+            "selling_price": 98.05,
+            "discount_percent": 39,
+            "rating": 3.7,
+            "description": "Dill is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+     
+            "common_name": "Hibiscus Roselle",
+            "family": "Asphodelaceae",
+            "categories": "Herb",
+            "origin": "India",
+            "climate": "Dry Tropical",
+            "zone": "[4, 10]",
+            "img_url": "https://tse3.mm.bing.net/th/id/OIP.Ki7VHdRJn5kL6elI_-KlCgHaIt?pid=Api&P=0&h=180",
+            "price": 240.1,
+            "selling_price": 259.01,
+            "discount_percent": 42,
+            "rating": 3.8,
+            "description": "Hibiscus Roselle is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+            
+            "common_name": "Dill",
+            "family": "Lamiaceae",
+            "categories": "Medicinal Herb",
+            "origin": "Asia",
+            "climate": "Dry Warm",
+            "zone": "[7, 12]",
+            "img_url": "https://www.thespruce.com/thmb/jmQmc4bl0pznYsqwRos80RGor98=/3300x2200/filters:fill(auto,1)/dill-tips-for-growing-and-using-1402606-12-57086d9f5f954424a31adbe37dbc8d7f.jpg",
+            "price": 299.95,
+            "selling_price": 234.37,
+            "discount_percent": 40,
+            "rating": 3.7,
+            "description": "Dill is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+           
+            "common_name": "Peppermint",
+            "family": "Lamiaceae",
+            "categories": "Medicinal Herb",
+            "origin": "Europe",
+            "climate": "Subtropical",
+            "zone": "[8, 7]",
+            "img_url": "https://thumbs.dreamstime.com/b/peppermint-tree-plant-small-pot-peppermint-tree-small-pot-136670194.jpg",
+            "price": 123.65,
+            "selling_price": 234.05,
+            "discount_percent": 11,
+            "rating": 4.1,
+            "description": "Peppermint is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+  
+            "common_name": "Curry Leaves",
+            "family": "Lamiaceae",
+            "categories": "Medicinal Herb",
+            "origin": "Sri Lanka",
+            "climate": "Subtropical",
+            "zone": "[10, 10]",
+            "img_url": "https://tse4.mm.bing.net/th/id/OIP.yZG52LHbSfFkNGVCZDFoHgHaHa?pid=Api&P=0&h=180",
+            "price": 119.53,
+            "selling_price": 72.56,
+            "discount_percent": 38,
+            "rating": 4.7,
+            "description": "Curry Leaves is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+       
+            "common_name": "Sage",
+            "family": "Poaceae",
+            "categories": "Herb",
+            "origin": "India",
+            "climate": "Tropical",
+            "zone": "[8, 11]",
+            "img_url": "https://static.vecteezy.com/system/resources/previews/044/619/798/non_2x/potted-sage-plant-png.png",
+            "price": 209.19,
+            "selling_price": 193.34,
+            "discount_percent": 35,
+            "rating": 4.7,
+            "description": "Sage is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+         
+            "common_name": "Lemon Balm",
+            "family": "Apiaceae",
+            "categories": "Herb",
+            "origin": "Sri Lanka",
+            "climate": "Subtropical",
+            "zone": "[10, 7]",
+            "img_url": "https://plantscraze.com/wp-content/uploads/2022/06/Lemon-Balm-growing-in-pot.jpeg",
+            "price": 135.0,
+            "selling_price": 167.35,
+            "discount_percent": 35,
+            "rating": 4.3,
+            "description": "Lemon Balm is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+  
+            "common_name": "Stevia",
+            "family": "Lamiaceae",
+            "categories": "Medicinal Herb",
+            "origin": "Mediterranean",
+            "climate": "Temperate",
+            "zone": "[9, 3]",
+            "img_url": "https://gardeningsolutions.ifas.ufl.edu/wp-content/uploads/2025/05/stevia_potted300x400.jpg",
+            "price": 230.17,
+            "selling_price": 152.56,
+            "discount_percent": 16,
+            "rating": 5.0,
+            "description": "Stevia is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+         
+            "common_name": "Indian Borage",
+            "family": "Lamiaceae",
+            "categories": "Aromatic Herb",
+            "origin": "Asia",
+            "climate": "Tropical",
+            "zone": "[6, 6]",
+            "img_url": "https://c8.alamy.com/comp/X09RTA/leaf-herb-leaf-india-horizontal-stalk-stem-pot-herb-lawn-green-plant-indian-X09RTA.jpg",
+            "price": 191.99,
+            "selling_price": 137.92,
+            "discount_percent": 45,
+            "rating": 4.0,
+            "description": "Indian Borage is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+          
+            "common_name": "Curry Leaves",
+            "family": "Poaceae",
+            "categories": "Medicinal Herb",
+            "origin": "Mediterranean",
+            "climate": "Subtropical",
+            "zone": "[3, 9]",
+            "img_url": "https://cdn.shopify.com/s/files/1/0070/8273/7764/articles/DSC6338.jpg?v=1556613645",
+            "price": 125.81,
+            "selling_price": 129.29,
+            "discount_percent": 14,
+            "rating": 3.9,
+            "description": "Curry Leaves is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+           
+            "common_name": "Bay Leaf",
+            "family": "Lamiaceae",
+            "categories": "Aromatic Herb",
+            "origin": "Europe",
+            "climate": "Dry Tropical",
+            "zone": "[11, 9]",
+            "img_url": "https://i.pinimg.com/originals/fb/89/de/fb89de66e3863acbe508b576d66cfe98.jpg",
+            "price": 205.34,
+            "selling_price": 192.16,
+            "discount_percent": 39,
+            "rating": 4.4,
+            "description": "Bay Leaf is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+        
+            "common_name": "Thyme",
+            "family": "Asphodelaceae",
+            "categories": "Culinary Herb",
+            "origin": "Arabian Peninsula",
+            "climate": "Dry Warm",
+            "zone": "[7, 9]",
+            "img_url": "https://c8.alamy.com/comp/2J3T5WB/herb-lemon-thyme-in-small-metal-pot-2J3T5WB.jpg",
+            "price": 191.77,
+            "selling_price": 279.56,
+            "discount_percent": 30,
+            "rating": 3.9,
+            "description": "Thyme is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+           
+            "common_name": "Curry Leaves",
+            "family": "Apiaceae",
+            "categories": "Aromatic Herb",
+            "origin": "Asia",
+            "climate": "Dry Warm",
+            "zone": "[5, 3]",
+            "img_url": "https://i.etsystatic.com/35392435/r/il/a1b349/4092084802/il_fullxfull.4092084802_isy1.jpg",
+            "price": 267.4,
+            "selling_price": 292.17,
+            "discount_percent": 25,
+            "rating": 4.2,
+            "description": "Curry Leaves is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+        
+            "common_name": "Lemongrass",
+            "family": "Lamiaceae",
+            "categories": "Aromatic Herb",
+            "origin": "Sri Lanka",
+            "climate": "Tropical",
+            "zone": "[10, 3]",
+            "img_url": "https://tse3.mm.bing.net/th/id/OIP.qE7bjzCt4Luv68jwpLiPbwHaFE?pid=Api&P=0&h=180",
+            "price": 125.89,
+            "selling_price": 289.09,
+            "discount_percent": 28,
+            "rating": 3.6,
+            "description": "Lemongrass is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+       
+            "common_name": "Chamomile",
+            "family": "Lamiaceae",
+            "categories": "Aromatic Herb",
+            "origin": "Europe",
+            "climate": "Temperate",
+            "zone": "[5, 8]",
+            "img_url": "https://tse2.mm.bing.net/th/id/OIP.V3fml9QSlGGS1N1614A0pQHaHa?pid=Api&P=0&h=180",
+            "price": 101.65,
+            "selling_price": 199.17,
+            "discount_percent": 39,
+            "rating": 3.6,
+            "description": "Chamomile is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+            
+            "common_name": "Stevia",
+            "family": "Asphodelaceae",
+            "categories": "Herb",
+            "origin": "Asia",
+            "climate": "Subtropical",
+            "zone": "[8, 6]",
+            "img_url": "https://static.vecteezy.com/system/resources/previews/055/147/912/non_2x/fresh-stevia-plants-in-modern-terracotta-pot-on-kitchen-table-showcasing-vibrant-green-leaves-and-cozy-home-atmosphere-photo.jpeg",
+            "price": 286.71,
+            "selling_price": 186.48,
+            "discount_percent": 33,
+            "rating": 4.9,
+            "description": "Stevia is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+        
+            "common_name": "Feverfew",
+            "family": "Lamiaceae",
+            "categories": "Culinary Herb",
+            "origin": "Sri Lanka",
+            "climate": "Dry Tropical",
+            "zone": "[7, 11]",
+            "img_url": "https://c8.alamy.com/comp/AT0WA6/pot-of-fresh-herb-golden-feverfew-AT0WA6.jpg",
+            "price": 280.98,
+            "selling_price": 295.36,
+            "discount_percent": 29,
+            "rating": 4.6,
+            "description": "Feverfew is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+           
+            "common_name": "Gotu Kola",
+            "family": "Asphodelaceae",
+            "categories": "Herb",
+            "origin": "India",
+            "climate": "Subtropical",
+            "zone": "[7, 4]",
+            "img_url": "https://www.shutterstock.com/image-photo/gotu-kola-plant-growing-pot-260nw-2347538091.jpg",
+            "price": 158.19,
+            "selling_price": 164.08,
+            "discount_percent": 27,
+            "rating": 3.6,
+            "description": "Gotu Kola is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+            
+            "common_name": "Rosemary",
+            "family": "Apiaceae",
+            "categories": "Aromatic Herb",
+            "origin": "Sri Lanka",
+            "climate": "Dry Warm",
+            "zone": "[8, 10]",
+            "img_url": "https://img.freepik.com/premium-photo/rosemary-plant-ceramic-pot-metal-table_961147-12108.jpg",
+            "price": 392.54,
+            "selling_price": 114.07,
+            "discount_percent": 42,
+            "rating": 4.2,
+            "description": "Rosemary is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+          
+            "common_name": "Lemon Balm",
+            "family": "Lamiaceae",
+            "categories": "Aromatic Herb",
+            "origin": "Arabian Peninsula",
+            "climate": "Temperate",
+            "zone": "[9, 10]",
+            "img_url": "https://cdn.mos.cms.futurecdn.net/Af3ZQBz3wuKVqfM43vKf7D.jpg",
+            "price": 379.51,
+            "selling_price": 161.82,
+            "discount_percent": 13,
+            "rating": 4.9,
+            "description": "Lemon Balm is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+            
+            "common_name": "Peppermint",
+            "family": "Apiaceae",
+            "categories": "Herb",
+            "origin": "Europe",
+            "climate": "Subtropical",
+            "zone": "[11, 6]",
+            "img_url": "https://tse4.mm.bing.net/th/id/OIP.QEaZrRg7UswUmFymRtE6bAHaFj?pid=Api&P=0&h=180",
+            "price": 183.4,
+            "selling_price": 279.68,
+            "discount_percent": 33,
+            "rating": 3.6,
+            "description": "Peppermint is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+            "common_name": "Thyme",
+            "family": "Lamiaceae",
+            "categories": "Aromatic Herb",
+            "origin": "India",
+            "climate": "Tropical",
+            "zone": "[10, 6]",
+            "img_url": "https://thumbs.dreamstime.com/b/thyme-plant-pot-small-green-leaves-subtle-fragrance-featuring-set-against-white-background-374890754.jpg",
+            "price": 294.14,
+            "selling_price": 106.51,
+            "discount_percent": 29,
+            "rating": 3.7,
+            "description": "Thyme is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+           
+            "common_name": "Ajwain Leaves",
+            "family": "Poaceae",
+            "categories": "Aromatic Herb",
+            "origin": "Mediterranean",
+            "climate": "Dry Warm",
+            "zone": "[10, 9]",
+            "img_url": "https://lucknownursery.com/wp-content/uploads/2020/09/41KcgDfcx7L.jpg",
+            "price": 105.06,
+            "selling_price": 143.81,
+            "discount_percent": 35,
+            "rating": 4.1,
+            "description": "Ajwain Leaves is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+    
+            "common_name": "Lavender",
+            "family": "Poaceae",
+            "categories": "Aromatic Herb",
+            "origin": "Mediterranean",
+            "climate": "Temperate",
+            "zone": "[12, 8]",
+            "img_url": "https://png.pngtree.com/png-clipart/20240225/original/pngtree-lavender-plant-with-flowers-in-a-pot-png-image_14410316.png",
+            "price": 231.18,
+            "selling_price": 294.0,
+            "discount_percent": 45,
+            "rating": 4.0,
+            "description": "Lavender is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+          
+            "common_name": "Lavender",
+            "family": "Poaceae",
+            "categories": "Culinary Herb",
+            "origin": "Arabian Peninsula",
+            "climate": "Tropical",
+            "zone": "[12, 6]",
+            "img_url": "https://png.pngtree.com/png-clipart/20240225/original/pngtree-lavender-plant-with-flowers-in-a-pot-png-image_14410316.png",
+            "price": 268.58,
+            "selling_price": 226.96,
+            "discount_percent": 40,
+            "rating": 4.2,
+            "description": "Lavender is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+           
+            "common_name": "Mint",
+            "family": "Asphodelaceae",
+            "categories": "Aromatic Herb",
+            "origin": "Mediterranean",
+            "climate": "Tropical",
+            "zone": "[4, 8]",
+            "img_url": "https://image.shutterstock.com/z/stock-photo-fresh-mint-plant-in-pot-on-a-white-background-132627662.jpg",
+            "price": 181.05,
+            "selling_price": 144.66,
+            "discount_percent": 26,
+            "rating": 4.5,
+            "description": "Mint is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+            
+            "common_name": "Indian Borage",
+            "family": "Lamiaceae",
+            "categories": "Culinary Herb",
+            "origin": "Europe",
+            "climate": "Temperate",
+            "zone": "[7, 9]",
+            "img_url": "https://plantnpot.com/cdn/shop/products/New-IndianBoragePlant_MexicanMint_2-828x904.jpg?v=1680044414&width=1445",
+            "price": 220.51,
+            "selling_price": 256.12,
+            "discount_percent": 15,
+            "rating": 4.5,
+            "description": "Indian Borage is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+          
+            "common_name": "Sage",
+            "family": "Lamiaceae",
+            "categories": "Medicinal Herb",
+            "origin": "Europe",
+            "climate": "Subtropical",
+            "zone": "[12, 3]",
+            "img_url": "https://img.freepik.com/premium-photo/sage-plant-pot-white-background_162279-6153.jpg",
+            "price": 341.68,
+            "selling_price": 218.59,
+            "discount_percent": 38,
+            "rating": 3.5,
+            "description": "Sage is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+            
+            "common_name": "Gotu Kola",
+            "family": "Lamiaceae",
+            "categories": "Aromatic Herb",
+            "origin": "Arabian Peninsula",
+            "climate": "Temperate",
+            "zone": "[8, 8]",
+            "img_url": "https://c8.alamy.com/comp/M033GT/natural-gotu-kola-leaves-in-white-pot-on-white-background-M033GT.jpg",
+            "price": 250.19,
+            "selling_price": 181.61,
+            "discount_percent": 19,
+            "rating": 4.3,
+            "description": "Gotu Kola is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+            
+            "common_name": "Aloe Vera",
+            "family": "Poaceae",
+            "categories": "Aromatic Herb",
+            "origin": "Asia",
+            "climate": "Dry Warm",
+            "zone": "[4, 3]",
+            "img_url": "https://img.freepik.com/premium-photo/aloe-vera-pot-isolated-mini-aloe-vera-plants-growing-home-pots-aloevera-ingredient_162695-13918.jpg?w=996",
+            "price": 181.77,
+            "selling_price": 84.18,
+            "discount_percent": 39,
+            "rating": 3.6,
+            "description": "Aloe Vera is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+    
+            "common_name": "Thyme",
+            "family": "Poaceae",
+            "categories": "Medicinal Herb",
+            "origin": "Mediterranean",
+            "climate": "Dry Tropical",
+            "zone": "[5, 6]",
+            "img_url": "https://thumbs.dreamstime.com/z/lemon-thyme-pot-front-white-background-68466486.jpg",
+            "price": 270.54,
+            "selling_price": 173.16,
+            "discount_percent": 14,
+            "rating": 4.5,
+            "description": "Thyme is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+           
+            "common_name": "Hibiscus Roselle",
+            "family": "Poaceae",
+            "categories": "Culinary Herb",
+            "origin": "Europe",
+            "climate": "Dry Warm",
+            "zone": "[8, 7]",
+            "img_url": "https://www.healthbenefitstimes.com/9/gallery/hibiscus/Small-Hibiscus-plant-on-pot.png",
+            "price": 297.81,
+            "selling_price": 295.83,
+            "discount_percent": 24,
+            "rating": 4.3,
+            "description": "Hibiscus Roselle is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+         
+            "common_name": "Ajwain Leaves",
+            "family": "Poaceae",
+            "categories": "Aromatic Herb",
+            "origin": "Asia",
+            "climate": "Dry Warm",
+            "zone": "[5, 12]",
+            "img_url": "https://m.media-amazon.com/images/I/6156yDtAYpL._SL1296_.jpg",
+            "price": 200.19,
+            "selling_price": 187.41,
+            "discount_percent": 35,
+            "rating": 4.1,
+            "description": "Ajwain Leaves is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+            
+            "common_name": "Mint",
+            "family": "Asphodelaceae",
+            "categories": "Aromatic Herb",
+            "origin": "Europe",
+            "climate": "Subtropical",
+            "zone": "[9, 10]",
+            "img_url": "https://static.vecteezy.com/system/resources/previews/002/093/903/non_2x/mint-plant-in-pot-free-photo.jpg",
+            "price": 266.77,
+            "selling_price": 112.13,
+            "discount_percent": 10,
+            "rating": 3.5,
+            "description": "Mint is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+            
+            "common_name": "Thyme",
+            "family": "Apiaceae",
+            "categories": "Aromatic Herb",
+            "origin": "Asia",
+            "climate": "Temperate",
+            "zone": "[8, 12]",
+            "img_url": "https://thumbs.dreamstime.com/z/fresh-thyme-small-pot-fresh-thyme-small-pot-isolated-white-178450732.jpg",
+            "price": 126.21,
+            "selling_price": 162.39,
+            "discount_percent": 36,
+            "rating": 4.2,
+            "description": "Thyme is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+            
+            "common_name": "Hibiscus Roselle",
+            "family": "Asphodelaceae",
+            "categories": "Culinary Herb",
+            "origin": "Sri Lanka",
+            "climate": "Dry Tropical",
+            "zone": "[10, 10]",
+            "img_url": "https://www.healthbenefitstimes.com/9/gallery/hibiscus/Small-Hibiscus-plant-on-pot.png",
+            "price": 192.15,
+            "selling_price": 271.97,
+            "discount_percent": 26,
+            "rating": 3.9,
+            "description": "Hibiscus Roselle is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+           
+            "common_name": "Chamomile",
+            "family": "Apiaceae",
+            "categories": "Medicinal Herb",
+            "origin": "Mediterranean",
+            "climate": "Tropical",
+            "zone": "[10, 5]",
+            "img_url": "https://gardenerspath.com/wp-content/uploads/2020/05/Chamomile-Plant-in-a-Pot.jpg",
+            "price": 198.56,
+            "selling_price": 249.91,
+            "discount_percent": 24,
+            "rating": 4.9,
+            "description": "Chamomile is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+            
+            "common_name": "Bay Leaf",
+            "family": "Lamiaceae",
+            "categories": "Herb",
+            "origin": "Europe",
+            "climate": "Dry Tropical",
+            "zone": "[10, 8]",
+            "img_url": "https://sharingideas.me/wp-content/uploads/2023/12/bay-leaf-tree-in-a-pot.webp",
+            "price": 340.92,
+            "selling_price": 75.22,
+            "discount_percent": 28,
+            "rating": 4.0,
+            "description": "Bay Leaf is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+         
+            "common_name": "Holy Basil",
+            "family": "Apiaceae",
+            "categories": "Culinary Herb",
+            "origin": "Asia",
+            "climate": "Temperate",
+            "zone": "[6, 6]",
+            "img_url": "https://thumbs.dreamstime.com/b/holy-basil-ocimum-tenuiflorum-l-black-pot-white-background-holy-basil-ocimum-tenuiflorum-l-black-pot-151267179.jpg",
+            "price": 286.44,
+            "selling_price": 147.91,
+            "discount_percent": 41,
+            "rating": 4.1,
+            "description": "Holy Basil is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+        
+            "common_name": "Coriander",
+            "family": "Lamiaceae",
+            "categories": "Herb",
+            "origin": "India",
+            "climate": "Tropical",
+            "zone": "[11, 3]",
+            "img_url": "https://c8.alamy.com/comp/2R0Y9TB/coriander-growing-in-a-pot-2R0Y9TB.jpg",
+            "price": 244.71,
+            "selling_price": 66.26,
+            "discount_percent": 44,
+            "rating": 3.9,
+            "description": "Coriander is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+           
+            "common_name": "Parsley",
+            "family": "Lamiaceae",
+            "categories": "Culinary Herb",
+            "origin": "Arabian Peninsula",
+            "climate": "Dry Warm",
+            "zone": "[5, 3]",
+            "img_url": "https://img.freepik.com/premium-photo/parsley-plant-isolated-with-pot_884296-32203.jpg",
+            "price": 178.85,
+            "selling_price": 71.22,
+            "discount_percent": 33,
+            "rating": 4.7,
+            "description": "Parsley is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+        
+            "common_name": "Aloe Vera",
+            "family": "Asphodelaceae",
+            "categories": "Medicinal Herb",
+            "origin": "Sri Lanka",
+            "climate": "Tropical",
+            "zone": "[6, 3]",
+            "img_url": "https://img.freepik.com/premium-photo/aloe-vera-pot-isolated-mini-aloe-vera-plants-growing-home-pots-aloevera-ingredient_162695-13918.jpg?w=996",
+            "price": 346.69,
+            "selling_price": 271.8,
+            "discount_percent": 29,
+            "rating": 3.7,
+            "description": "Aloe Vera is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+        
+            "common_name": "Hibiscus Roselle",
+            "family": "Poaceae",
+            "categories": "Herb",
+            "origin": "Mediterranean",
+            "climate": "Dry Warm",
+            "zone": "[5, 4]",
+            "img_url": "https://www.healthbenefitstimes.com/9/gallery/hibiscus/Small-Hibiscus-plant-on-pot.png",
+            "price": 302.42,
+            "selling_price": 273.11,
+            "discount_percent": 25,
+            "rating": 4.3,
+            "description": "Hibiscus Roselle is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+            
+            "common_name": "Gotu Kola",
+            "family": "Poaceae",
+            "categories": "Aromatic Herb",
+            "origin": "Mediterranean",
+            "climate": "Dry Tropical",
+            "zone": "[10, 10]",
+            "img_url": "https://www.shutterstock.com/image-photo/gotu-kola-plant-clay-pot-600w-1994759750.jpg",
+            "price": 255.97,
+            "selling_price": 231.09,
+            "discount_percent": 36,
+            "rating": 4.4,
+            "description": "Gotu Kola is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+    
+            "common_name": "Curry Leaves",
+            "family": "Apiaceae",
+            "categories": "Herb",
+            "origin": "Asia",
+            "climate": "Subtropical",
+            "zone": "[9, 11]",
+            "img_url": "https://www.thespruce.com/thmb/-w7Z1DpNN8Mj0qSxDDxuts8ynUw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-grow-and-care-for-curry-trees-5075352-hero-df22e1f30cb745bf820a26de04d1af5d.jpg",
+            "price": 218.26,
+            "selling_price": 120.1,
+            "discount_percent": 15,
+            "rating": 3.6,
+            "description": "Curry Leaves is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+        
+            "common_name": "Peppermint",
+            "family": "Lamiaceae",
+            "categories": "Aromatic Herb",
+            "origin": "Mediterranean",
+            "climate": "Temperate",
+            "zone": "[5, 9]",
+            "img_url": "https://thumbs.dreamstime.com/b/peppermint-tree-plant-small-pot-peppermint-tree-small-pot-136670194.jpg",
+            "price": 248.03,
+            "selling_price": 121.0,
+            "discount_percent": 35,
+            "rating": 4.7,
+            "description": "Peppermint is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+           
+            "common_name": "Bay Leaf",
+            "family": "Apiaceae",
+            "categories": "Herb",
+            "origin": "Arabian Peninsula",
+            "climate": "Tropical",
+            "zone": "[8, 8]",
+            "img_url": "https://sharingideas.me/wp-content/uploads/2023/12/bay-leaf-tree-in-a-pot.webp",
+            "price": 329.46,
+            "selling_price": 134.27,
+            "discount_percent": 31,
+            "rating": 4.0,
+            "description": "Bay Leaf is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+           
+            "common_name": "Curry Leaves",
+            "family": "Lamiaceae",
+            "categories": "Culinary Herb",
+            "origin": "Asia",
+            "climate": "Dry Tropical",
+            "zone": "[12, 8]",
+            "img_url": "https://shrigramorganics.com/wp-content/uploads/2020/06/curry-leaf-plant-800x800-1.jpg",
+            "price": 266.25,
+            "selling_price": 229.45,
+            "discount_percent": 21,
+            "rating": 4.4,
+            "description": "Curry Leaves is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+            
+            "common_name": "Stevia",
+            "family": "Lamiaceae",
+            "categories": "Culinary Herb",
+            "origin": "Mediterranean",
+            "climate": "Dry Tropical",
+            "zone": "[4, 8]",
+            "img_url": "https://img.freepik.com/premium-photo/green-stevia-leaves-with-small-bowl-white-background_525574-1813.jpg?w=2000",
+            "price": 269.32,
+            "selling_price": 105.6,
+            "discount_percent": 20,
+            "rating": 4.4,
+            "description": "Stevia is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+          
+            "common_name": "Lemongrass",
+            "family": "Lamiaceae",
+            "categories": "Culinary Herb",
+            "origin": "Sri Lanka",
+            "climate": "Dry Tropical",
+            "zone": "[8, 11]",
+            "img_url": "https://img.freepik.com/premium-photo/lemongrass-growing-white-pot-white-background-generative-ai_864588-5279.jpg",
+            "price": 123.61,
+            "selling_price": 116.66,
+            "discount_percent": 18,
+            "rating": 4.2,
+            "description": "Lemongrass is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+          
+            "common_name": "Curry Leaves",
+            "family": "Asphodelaceae",
+            "categories": "Aromatic Herb",
+            "origin": "Mediterranean",
+            "climate": "Subtropical",
+            "zone": "[6, 8]",
+            "img_url": "https://puspitanursery.in/wp-content/uploads/2024/08/k1-119.jpg",
+            "price": 121.31,
+            "selling_price": 134.84,
+            "discount_percent": 13,
+            "rating": 4.1,
+            "description": "Curry Leaves is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+         
+            "common_name": "Chamomile",
+            "family": "Asphodelaceae",
+            "categories": "Medicinal Herb",
+            "origin": "Europe",
+            "climate": "Dry Warm",
+            "zone": "[10, 11]",
+            "img_url": "https://growingfruits.com/wp-content/uploads/2024/12/Growing-Chamomile-in-containers.webp",
+            "price": 150.04,
+            "selling_price": 279.07,
+            "discount_percent": 18,
+            "rating": 4.8,
+            "description": "Chamomile is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+          
+            "common_name": "Dill",
+            "family": "Asphodelaceae",
+            "categories": "Culinary Herb",
+            "origin": "Mediterranean",
+            "climate": "Subtropical",
+            "zone": "[3, 9]",
+            "img_url": "https://tse3.mm.bing.net/th/id/OIP.LMtmd_3lQt9cUyIM56ayrgHaFj?pid=Api&P=0&h=180",
+            "price": 237.62,
+            "selling_price": 273.46,
+            "discount_percent": 21,
+            "rating": 3.7,
+            "description": "Dill is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+       
+            "common_name": "Holy Basil",
+            "family": "Apiaceae",
+            "categories": "Medicinal Herb",
+            "origin": "Asia",
+            "climate": "Temperate",
+            "zone": "[9, 5]",
+            "img_url": "https://dummyimage.com/600x400/8fbc8f/ffffff&text=Holy+Basil",
+            "price": 189.67,
+            "selling_price": 113.35,
+            "discount_percent": 17,
+            "rating": 4.5,
+            "description": "Holy Basil is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+           
+            "common_name": "Lemon Balm",
+            "family": "Asphodelaceae",
+            "categories": "Culinary Herb",
+            "origin": "Sri Lanka",
+            "climate": "Dry Warm",
+            "zone": "[12, 11]",
+            "img_url": "https://cdn.mos.cms.futurecdn.net/EWfoNmMpFWq25oi67dwLTQ-1280-80.jpg",
+            "price": 316.8,
+            "selling_price": 293.89,
+            "discount_percent": 38,
+            "rating": 4.4,
+            "description": "Lemon Balm is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+         
+            "common_name": "Coriander",
+            "family": "Poaceae",
+            "categories": "Medicinal Herb",
+            "origin": "Europe",
+            "climate": "Temperate",
+            "zone": "[11, 8]",
+            "img_url": "https://tse3.mm.bing.net/th/id/OIP.ZLMtvSFrssFcy57rIUttlgHaJb?pid=Api&P=0&h=180",
+            "price": 385.97,
+            "selling_price": 73.09,
+            "discount_percent": 12,
+            "rating": 4.5,
+            "description": "Coriander is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+          
+            "common_name": "Chamomile",
+            "family": "Asphodelaceae",
+            "categories": "Herb",
+            "origin": "Europe",
+            "climate": "Tropical",
+            "zone": "[5, 3]",
+            "img_url": "https://growingfruits.com/wp-content/uploads/2024/12/Growing-Chamomile-in-containers.webp",
+            "price": 274.45,
+            "selling_price": 136.85,
+            "discount_percent": 40,
+            "rating": 4.1,
+            "description": "Chamomile is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+         
+            "common_name": "Curry Leaves",
+            "family": "Asphodelaceae",
+            "categories": "Aromatic Herb",
+            "origin": "Sri Lanka",
+            "climate": "Dry Warm",
+            "zone": "[4, 9]",
+            "img_url": "https://m.media-amazon.com/images/I/61oRqP9AS9L._SL1150_.jpg",
+            "price": 360.8,
+            "selling_price": 290.19,
+            "discount_percent": 30,
+            "rating": 3.5,
+            "description": "Curry Leaves is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+           
+            "common_name": "Rosemary",
+            "family": "Lamiaceae",
+            "categories": "Culinary Herb",
+            "origin": "Europe",
+            "climate": "Temperate",
+            "zone": "[5, 8]",
+            "img_url": "https://plantura.garden/uk/wp-content/uploads/sites/2/2022/10/rosemary-pot.jpg",
+            "price": 373.6,
+            "selling_price": 164.85,
+            "discount_percent": 17,
+            "rating": 3.7,
+            "description": "Rosemary is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+        
+            "common_name": "Lavender",
+            "family": "Apiaceae",
+            "categories": "Medicinal Herb",
+            "origin": "India",
+            "climate": "Dry Warm",
+            "zone": "[6, 4]",
+            "img_url": "https://png.pngtree.com/png-clipart/20240225/original/pngtree-lavender-plant-with-flowers-in-a-pot-png-image_14410316.png",
+            "price": 179.61,
+            "selling_price": 148.1,
+            "discount_percent": 36,
+            "rating": 4.5,
+            "description": "Lavender is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+           
+            "common_name": "Mint",
+            "family": "Lamiaceae",
+            "categories": "Culinary Herb",
+            "origin": "Mediterranean",
+            "climate": "Temperate",
+            "zone": "[9, 5]",
+            "img_url": "https://static.vecteezy.com/system/resources/previews/002/093/903/non_2x/mint-plant-in-pot-free-photo.jpg",
+            "price": 355.14,
+            "selling_price": 172.86,
+            "discount_percent": 17,
+            "rating": 4.5,
+            "description": "Mint is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+           
+            "common_name": "Mint",
+            "family": "Asphodelaceae",
+            "categories": "Medicinal Herb",
+            "origin": "Arabian Peninsula",
+            "climate": "Temperate",
+            "zone": "[5, 10]",
+            "img_url": "https://static.vecteezy.com/system/resources/previews/002/093/903/non_2x/mint-plant-in-pot-free-photo.jpg",
+            "price": 107.27,
+            "selling_price": 199.51,
+            "discount_percent": 26,
+            "rating": 3.5,
+            "description": "Mint is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+            
+            "common_name": "Basil",
+            "family": "Asphodelaceae",
+            "categories": "Culinary Herb",
+            "origin": "Arabian Peninsula",
+            "climate": "Subtropical",
+            "zone": "[6, 3]",
+            "img_url": "https://thumbs.dreamstime.com/b/fresh-sweet-basil-small-pot-neutral-background-growing-basil-indoors-small-black-pot-fresh-basil-247355316.jpg",
+            "price": 209.38,
+            "selling_price": 74.62,
+            "discount_percent": 13,
+            "rating": 4.8,
+            "description": "Basil is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+          
+            "common_name": "Feverfew",
+            "family": "Lamiaceae",
+            "categories": "Culinary Herb",
+            "origin": "India",
+            "climate": "Temperate",
+            "zone": "[10, 12]",
+            "img_url": "https://c8.alamy.com/comp/AT0WA6/pot-of-fresh-herb-golden-feverfew-AT0WA6.jpg",
+            "price": 372.64,
+            "selling_price": 135.64,
+            "discount_percent": 45,
+            "rating": 3.9,
+            "description": "Feverfew is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        },
+        {
+         
+            "common_name": "Holy Basil",
+            "family": "Poaceae",
+            "categories": "Herb",
+            "origin": "India",
+            "climate": "Dry Tropical",
+            "zone": "[8, 4]",
+            "img_url": "https://m.media-amazon.com/images/I/51GU7Dnvq-L.jpg",
+            "price": 264.22,
+            "selling_price": 78.7,
+            "discount_percent": 34,
+            "rating": 4.1,
+            "description": "Holy Basil is a useful herb commonly grown for culinary and medicinal purposes.",
+            "benefits": [
+                "Improves health",
+                "Boosts immunity",
+                "Useful in cooking",
+                "Provides natural fragrance"
+            ],
+            "steps_to_grow": [
+                "Place in bright sunlight",
+                "Water regularly",
+                "Keep in well-draining soil",
+                "Trim to promote new growth"
+            ]
+        }
+    ]

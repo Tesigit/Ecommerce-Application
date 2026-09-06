@@ -1,0 +1,84 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+.signup-page {
+  background: url("../assets/Signup.png") no-repeat center center/cover;
+  min-height: 100vh; /* ensures at least full screen */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px; /* add some breathing room */
+}
+
+
+.signup-container {
+  width: 380px;
+  padding: 40px;
+  border-radius: 15px;
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(12px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+.signup-container h2 {
+  font-size: 32px;
+  color: blue;
+  margin-bottom: 25px;
+}
+
+.input-box {
+  width: 100%;
+  padding: 12px 18px;
+  margin-bottom: 18px;
+  border-radius: 30px;
+  border: none;
+  outline: none;
+  font-size: 16px;
+  box-sizing: border-box;
+  background: white;
+}
+
+.btn {
+  width: 100%;
+  padding: 12px;
+  border: none;
+  border-radius: 30px;
+  font-size: 18px;
+  background: #2f57ef;
+  color: white;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.btn:hover {
+  background: #1d3fc7;
+}
+.signup-logo {
+  width: 160px;
+  display: block;
+  margin: 0 auto 20px auto;
+}
+
+.register-text{
+  color: #ffffff;
+  margin-top: 10px;
+}
+
+.password-rules {
+  margin-top: 6px;
+  margin-bottom: 12px;
+  padding-left: 20px;
+  font-size: 13px;
+  color: #ff0000;
+  
+}
+
+.password-rules li {
+  list-style-type: disc;
+  margin: 2px 0;
+  text-align: left;
+}

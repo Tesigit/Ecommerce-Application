@@ -1,0 +1,189 @@
+/* MAIN NAVBAR */
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 20px;
+  background: #fff;
+  border-bottom: 1px solid #ddd;
+}
+
+.navbar__logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo-img {
+  width: 150px;
+  margin-right: 10px;
+}
+
+/* EXPANDED SEARCH BAR */
+.navbar__search.expanded {
+  flex-grow: 1;
+  display: flex;
+  justify-content: center;
+}
+
+.navbar__search.expanded input {
+  width: 420px; /* SEARCH BAR WIDER */
+  padding: 8px;
+  border: 1px solid black;
+}
+
+/* SEARCH BUTTON – GREEN BACKGROUND + WHITE TEXT */
+.navbar__search.expanded button {
+  padding: 8px 14px;
+  border: 1px solid #0d6b2f;
+  background: #0d6b2f;   /* Green background */
+  color: white;          /* White text */
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+/* Hover effect */
+.navbar__search.expanded button:hover {
+  background: #095224;   /* Darker green */
+  border-color: #095224;
+}
+
+
+/* RIGHT SIDE BUTTONS */
+.navbar__right {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+}
+
+.nav-btn {
+  padding: 8px 14px;
+  border: 1px solid black;
+  background: white;
+  cursor: pointer;
+}
+
+/* .signup {
+  font-weight: bold;
+} */
+
+
+.cart-btn {
+  background: #0d6b2f;
+  color: white;
+  font-size: 18px;
+}
+
+/* SUB NAV */
+.subnav {
+  display: flex;
+  background: #0d6b2f;
+  justify-content: center;
+  padding: 10px 0;
+  border-bottom: 1px solid #ddd;
+  color: #fff;
+}
+
+.subnav__item {
+  position: relative;
+  margin: 0 15px;
+  cursor: pointer;
+}
+.subnav__subitem {
+  color: #000 !important;   /* make sub items visible */
+  display: block;
+  padding: 6px 0;
+}
+
+
+.subnav__dropdown {
+  display: none;
+  position: absolute;
+  top: 35px;
+  left: 0;
+  background: #fff;
+  padding: 10px;
+  min-width: 180px;
+  border: 1px solid #ddd;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+}
+
+.subnav__item:hover .subnav__dropdown {
+  display: block;
+}
+
+/* User avatar container */
+.user-avatar {
+  display: flex;
+  align-items: center;
+  gap: 6px;           /* smaller gap to About button */
+  margin-right: 6px;  /* bring closer to About */
+}
+
+
+/* Avatar image bigger with border */
+.avatar-img {
+  width: 50px;             /* bigger avatar */
+  height: 50px;
+  border-radius: 50%;      /* makes it circular */
+  object-fit: cover;
+  border: 3px solid #0d6b2f;  /* blue border, you can change color */
+  padding: 2px;            /* optional: space between image and border */
+  box-sizing: border-box;  /* ensures padding doesn't increase overall size */
+}
+
+
+/* User email text */
+.user-email {
+  font-size: 14px;
+  color: #000;        /* optional: black to show on white navbar */
+  font-weight: 500;
+}
+
+.user-avatar-container {
+  position: relative;
+}
+
+.user-avatar {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  cursor: pointer;
+}
+
+.avatar-img {
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  border: 2px solid #0d6b2f; /* colored border */
+  object-fit: cover;
+}
+
+.user-email {
+  color: #000;
+  font-size: 14px;
+}
+
+/* Dropdown like subnav */
+.avatar-subnav-dropdown {
+  position: absolute;
+  top: 60px; /* just below the avatar */
+  right: 0;
+  background: #fff;
+  min-width: 120px;
+  border: 1px solid #ddd;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  z-index: 1000;
+}
+
+.avatar-subnav-dropdown span {
+  padding: 8px 12px;
+  cursor: pointer;
+  color: #0d6b2f;
+}
+
+.avatar-subnav-dropdown span:hover {
+  background-color: #f0f0f0;
+}
