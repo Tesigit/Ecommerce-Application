@@ -10,10 +10,10 @@ const ProfilePage = () => {
     const storedUser = JSON.parse(localStorage.getItem("user"));
     if (!storedUser) return;
 
-    axios
-      .get(`http://localhost:9000/users/${storedUser.email}`)
-      .then(res => setUserDetails(res.data))
-      .catch(err => console.error(err));
+   axios
+  .get(`https://ecommerce-application-production-f58b.up.railway.app/users/${storedUser.email}`)
+  .then(res => setUserDetails(res.data))
+  .catch(err => console.error(err));
   }, []);
 
   if (!userDetails) return <div className="profile-loading">Loading...</div>;
