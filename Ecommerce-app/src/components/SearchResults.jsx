@@ -17,13 +17,15 @@ const SearchResults = ({ searchTerm }) => {
     }
 
     axios
-      .get(`http://localhost:9000/users/search?query=${searchTerm}`)
-      .then((res) =>
-        setResults(
-          res.data.map((p) => ({ ...p, qty: p.qty || 0 })) // ensure qty exists
-        )
-      )
-      .catch((err) => console.log(err));
+  .get(
+    `https://ecommerce-application-production-f58b.up.railway.app/users/search?query=${searchTerm}`
+  )
+  .then((res) =>
+    setResults(
+      res.data.map((p) => ({ ...p, qty: p.qty || 0 }))
+    )
+  )
+  .catch((err) => console.log(err));
   }, [searchTerm]);
 
     // Map category names to backend endpoints
@@ -49,9 +51,15 @@ const SearchResults = ({ searchTerm }) => {
       prev && prev.id === plantId ? { ...prev, qty: newQty } : prev
     );
 
-    const endpoint = endpointMap[category];
-    axios.post(`http://localhost:9000/users/${endpoint}/updateQty`, { plant_id: plantId, qty: newQty });
-  };
+   const endpoint = endpointMap[category];
+axios.post(
+  `https://ecommerce-application-production-f58b.up.railway.app/users/${endpoint}/updateQty`,
+  {
+    plant_id: plantId,
+    qty: newQty
+  }
+);
+    
 
   const increment = (id, qty, category) => updateQty(id, qty + 1, category);
   const decrement = (id, qty, category) => qty > 0 && updateQty(id, qty - 1, category);
