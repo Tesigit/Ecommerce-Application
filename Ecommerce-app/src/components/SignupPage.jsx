@@ -32,10 +32,10 @@ const SignupPage = () => {
     e.preventDefault();
 
     // ✅ Step 1: Check if email already exists
-    try {
-      const emailCheck = await axios.get(
-        `http://localhost:9000/users/check-email?email=${email}`
-      );
+    try{
+   const emailCheck = await axios.get(
+  `https://ecommerce-application-production-f58b.up.railway.app/users/check-email?email=${email}`
+);
 
       if (emailCheck.data.exists) {
         toast.error("User already exists! Please login.");
@@ -62,14 +62,18 @@ const SignupPage = () => {
     }
 
     // ✅ Step 4: Save user
-    try {
-      await axios.post("http://localhost:9000/users/signup1", payload);
-      toast.success("Signup successful!");
-      setTimeout(() => navigate("/"), 2000);
-    } catch (error) {
-      console.error("Signup failed:", error);
-      toast.error("Signup failed. Please try again.");
-    }
+try {
+  await axios.post(
+    "https://ecommerce-application-production-f58b.up.railway.app/users/signup1",
+    payload
+  );
+
+  toast.success("Signup successful!");
+  setTimeout(() => navigate("/"), 2000);
+} catch (error) {
+  console.error("Signup failed:", error);
+  toast.error("Signup failed. Please try again.");
+}
   };
 
   return (
