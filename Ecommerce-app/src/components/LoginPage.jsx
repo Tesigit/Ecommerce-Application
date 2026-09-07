@@ -1,3 +1,4 @@
+
 import React, { useState } from "react";
 import "./LoginPage.css";
 import logo from "../assets/MainLogo1.png"; // same logo
@@ -23,7 +24,10 @@ const LoginPage = () => {
   const handleSubmit = (e) => {
   e.preventDefault();
 
-  axios.post("http://localhost:9000/users/login1", form)
+  axios.post(
+  "https://ecommerce-application-production-f58b.up.railway.app/users/login1",
+  form
+)
     .then((res) => {
       if (res.data === true) {
         // ✅ SUCCESS: show toast and store user info
