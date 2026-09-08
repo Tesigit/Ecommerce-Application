@@ -9,7 +9,7 @@ const Footer = () => {
   const handleSubscribe = () => {
     navigate("/signup");
   };
-
+ 
     return (
         <footer className="fh-footer">
 
