@@ -1,7 +1,7 @@
 import React from "react";
 import "./Footer.css";
 import logo from "../assets/MainLogo1.png";
-import {  useNavigate } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 
 const Footer = () => {
       const navigate = useNavigate();
@@ -52,8 +52,8 @@ const Footer = () => {
                     <ul>
                         <li><a href="/">Home</a></li>
                         <li><a href="/plants">All Plants</a></li>
-                        <li><a href="/indoor">Indoor Plants</a></li>
-                        <li><a href="/outdoor">Outdoor Plants</a></li>
+                        <li><Link to="/indoor_plants">Indoor Plants</Link></li>
+                        <li><Link to="/outdoor_plants">Outdoor Plants</Link></li>
                         <li><a href="/contact">Contact Us</a></li>
                         <li><a href="/about">About Us</a></li>
                     </ul>
