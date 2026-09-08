@@ -59,6 +59,7 @@ axios.post(
     qty: newQty
   }
 );
+};
     
 
   const increment = (id, qty, category) => updateQty(id, qty + 1, category);
