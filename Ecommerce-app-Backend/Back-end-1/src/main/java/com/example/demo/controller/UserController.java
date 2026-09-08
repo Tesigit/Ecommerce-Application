@@ -36,7 +36,10 @@ import java.util.Map;
 
 @RestController
 @RequestMapping("/users")
-@CrossOrigin(origins = "http://localhost:5173") // allow React frontend
+@CrossOrigin(origins = {
+    "http://localhost:5173",
+    "https://ecommerce-application-six-pink.vercel.app"
+}) // allow React frontend
 public class UserController {
 
 	@Autowired
