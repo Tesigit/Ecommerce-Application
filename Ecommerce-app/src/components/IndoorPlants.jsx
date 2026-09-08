@@ -12,7 +12,9 @@ const IndoorPlants = () => {
 
   // ---------------- FETCH DATA ----------------
   useEffect(() => {
-    fetch("http://localhost:9000/users/indoarplants")
+  fetch(
+  "https://ecommerce-application-production-f58b.up.railway.app/users/indoarplants"
+)
       .then((res) => res.json())
       .then((data) =>
         setPlants(
@@ -38,7 +40,9 @@ const IndoorPlants = () => {
     prev && prev.id === plantId ? { ...prev, qty: newQty } : prev
   );
 
-  fetch("http://localhost:9000/users/indoarplants/updateQty", {
+ fetch(
+  "https://ecommerce-application-production-f58b.up.railway.app/users/indoarplants/updateQty",
+  {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({ plant_id: plantId, qty: newQty }),
