@@ -2,13 +2,16 @@ import React, { useState, useEffect } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import "./CartPage.css";
 
+// Define base URL dynamically (falls back to Railway URL on production)
+const API_BASE_URL = import.meta.env.VITE_API_URL || "https://ecommerce-application-production-f58b.up.railway.app";
+
 const CartPage = () => {
   const [cartItems, setCartItems] = useState([]);
   const navigate = useNavigate();
 
   // Fetch cart items from backend
   useEffect(() => {
-    fetch("http://localhost:9000/users/cart")
+    fetch(`${API_BASE_URL}/users/cart`)
       .then((res) => res.json())
       .then(setCartItems)
       .catch((err) => console.error("Failed to fetch cart:", err));
@@ -62,7 +65,7 @@ const CartPage = () => {
         return;
     }
 
-    fetch(`http://localhost:9000${endpoint}`, {
+    fetch(`${API_BASE_URL}${endpoint}`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ plant_id: id, qty: newQty }),
@@ -86,7 +89,7 @@ const CartPage = () => {
 
   // Checkout handler
   const handleCheckout = () => {
-    fetch("http://localhost:9000/users/cart/clear", { method: "POST" })
+    fetch(`${API_BASE_URL}/users/cart/clear`, { method: "POST" })
       .then(() => navigate("/sucess"))
       .catch((err) => console.error("Checkout failed:", err));
   };
@@ -115,7 +118,12 @@ const CartPage = () => {
 
             return (
               <div className="cart-card" key={item.id}>
-                <img src={item.image} className="cart-image" alt={item.name} />
+                {/* HTTPS secured image URL */}
+                <img 
+                  src={item.image ? item.image.replace("http://", "https://") : ""} 
+                  className="cart-image" 
+                  alt={item.name} 
+                />
 
                 <div className="cart-info">
                   <h3>{item.name}</h3>
