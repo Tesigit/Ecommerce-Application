@@ -3,12 +3,14 @@ import "./NotFound404.css";
 import { Link } from "react-router-dom";
 
 const NotFound404 = () => {
+  const leafImage = "https://cdn-icons-png.flaticon.com/512/3627/3627692.png";
+
   return (
     <div className="nf-body">
       <div className="wrapper">
         <img
           className="leaf"
-          src="https://cdn-icons-png.flaticon.com/512/3627/3627692.png"
+          src={leafImage.replace("http://", "https://")}
           alt="leaf"
         />
 
