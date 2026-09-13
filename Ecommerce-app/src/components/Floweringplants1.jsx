@@ -77,8 +77,11 @@ const Floweringplants1 = () => {
           <div key={index} className="plant-card">
             <div className="discount-badge">-{item.discount_percent}%</div>
 
-            <img src={item.img_url} className="plant-img" alt={item.common_name} />
-
+           <img 
+           src={item.img_url ? item.img_url.replace("http://", "https://") : ""} 
+            className="plant-img" 
+            alt={item.common_name} 
+           />
             <p className="plant-title">{item.common_name}</p>
 
             <div className="price-box">
