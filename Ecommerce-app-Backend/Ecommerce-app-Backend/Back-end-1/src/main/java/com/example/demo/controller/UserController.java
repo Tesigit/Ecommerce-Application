@@ -28,23 +28,20 @@ import com.example.demo.service.UserService;
 
 @RestController
 @RequestMapping("/users")
-@CrossOrigin(origins = "http://localhost:5173") // allow React frontend
+@CrossOrigin(origins = {"http://localhost:5173", "https://ecommerce-application-six-pink.vercel.app"})
 public class UserController {
 
 	@Autowired
 	UserService userService;
 
 	@PostMapping("/signup1")
-
 	public Users addUser(@RequestBody Users user) {
 		return userService.addUser(user);
 	}
 
 	@PostMapping("/login1")
-
 	public Boolean loginUser(@RequestBody LoginData logindata) { // convert json into users
 		return userService.loginUser(logindata); // check the email given by user and returns true and false
-
 	}
 
 	@GetMapping("/indoarplants")
@@ -66,7 +63,6 @@ public class UserController {
 	}
 
 	@GetMapping("/indoarplants/{id}")
-	@CrossOrigin(origins = "http://localhost:5173")
 	public IndoarPlant getIndoarPlantById(@PathVariable("id") int plantId) {
 		return userService.getIndoarPlantById(plantId);
 	}
@@ -136,17 +132,14 @@ public class UserController {
 	// Update qty
 	@PostMapping("/seeds/updateQty")
 	public Seeds updateSeedsQty(@RequestBody Map<String, Integer> request) {
-
 		Long seedId = request.get("plant_id").longValue(); // same key as vegetables
 		Integer qty = request.get("qty");
-
 		return userService.updateSeedsQty(seedId, qty);
 	}
 
 	// Reset qty
 	@PostMapping("/seeds/resetQty")
 	public void resetSeedsQty(@RequestBody Map<String, Long> request) {
-
 		Long seedId = request.get("plant_id");
 		userService.resetSeedsQty(seedId);
 	}
@@ -159,7 +152,6 @@ public class UserController {
 
 	// Get all soil & pesticides
 	@GetMapping("/soil_pesticides")
-	@CrossOrigin(origins = "http://localhost:5173")
 	public List<SoilPesticides> getAllSoilPesticides() {
 		return userService.getAllSoilPesticides();
 	}
@@ -167,17 +159,14 @@ public class UserController {
 	// Update qty
 	@PostMapping("/soil_pesticides/updateQty")
 	public SoilPesticides updateSoilPesticideQty(@RequestBody Map<String, Integer> request) {
-
 		Long itemId = request.get("plant_id").longValue(); // same key as seeds
 		Integer qty = request.get("qty");
-
 		return userService.updateSoilPesticideQty(itemId, qty);
 	}
 
 	// Reset qty
 	@PostMapping("/soil_pesticides/resetQty")
 	public void resetSoilPesticideQty(@RequestBody Map<String, Long> request) {
-
 		Long itemId = request.get("plant_id");
 		userService.resetSoilPesticideQty(itemId);
 	}
@@ -190,7 +179,6 @@ public class UserController {
 
 	// Get all flowering plants
 	@GetMapping("/flowering_plants")
-	@CrossOrigin(origins = "http://localhost:5173")
 	public List<FloweringPlant> getFloweringPlants() {
 		return userService.getAllFloweringPlants();
 	}
@@ -198,17 +186,14 @@ public class UserController {
 	// Update qty
 	@PostMapping("/flowering_plants/updateQty")
 	public FloweringPlant updateFloweringPlantQty(@RequestBody Map<String, Integer> request) {
-
 		Long plantId = request.get("plant_id").longValue(); // same key as seeds/soil
 		Integer qty = request.get("qty");
-
 		return userService.updateFloweringPlantQty(plantId, qty);
 	}
 
 	// Reset qty
 	@PostMapping("/flowering_plants/resetQty")
 	public void resetFloweringPlantQty(@RequestBody Map<String, Long> request) {
-
 		Long plantId = request.get("plant_id");
 		userService.resetFloweringPlantQty(plantId);
 	}
@@ -221,7 +206,6 @@ public class UserController {
 
 	// Get all herbs
 	@GetMapping("/herbs")
-	@CrossOrigin(origins = "http://localhost:5173")
 	public List<Herbs> getHerbs() {
 		return userService.getAllHerbs();
 	}
@@ -229,17 +213,14 @@ public class UserController {
 	// Update qty
 	@PostMapping("/herbs/updateQty")
 	public Herbs updateHerbQty(@RequestBody Map<String, Integer> request) {
-
 		Long herbId = request.get("plant_id").longValue(); // same key format used everywhere
 		Integer qty = request.get("qty");
-
 		return userService.updateHerbQty(herbId, qty);
 	}
 
 	// Reset qty
 	@PostMapping("/herbs/resetQty")
 	public void resetHerbQty(@RequestBody Map<String, Long> request) {
-
 		Long herbId = request.get("plant_id");
 		userService.resetHerbQty(herbId);
 	}
@@ -252,7 +233,6 @@ public class UserController {
 
 	// Get all bulbs
 	@GetMapping("/bulbs")
-	@CrossOrigin(origins = "http://localhost:5173")
 	public List<Bulbs> getBulbs() {
 		return userService.getAllBulbs();
 	}
@@ -260,17 +240,14 @@ public class UserController {
 	// Update qty
 	@PostMapping("/bulbs/updateQty")
 	public Bulbs updateBulbQty(@RequestBody Map<String, Integer> request) {
-
 		Long bulbId = request.get("plant_id").longValue(); // SAME KEY as herbs/seeds
 		Integer qty = request.get("qty");
-
 		return userService.updateBulbQty(bulbId, qty);
 	}
 
 	// Reset qty
 	@PostMapping("/bulbs/resetQty")
 	public void resetBulbQty(@RequestBody Map<String, Long> request) {
-
 		Long bulbId = request.get("plant_id");
 		userService.resetBulbQty(bulbId);
 	}
@@ -283,7 +260,6 @@ public class UserController {
 
 	// Get all succulents & cactus
 	@GetMapping("/succulents_cactus")
-	@CrossOrigin(origins = "http://localhost:5173")
 	public List<SucculentsCactus> getSucculentsCactus() {
 		return userService.getAllSucculentsCactus();
 	}
@@ -291,17 +267,14 @@ public class UserController {
 	// Update qty
 	@PostMapping("/succulents_cactus/updateQty")
 	public SucculentsCactus updateSucculentCactusQty(@RequestBody Map<String, Integer> request) {
-
 		Long plantId = request.get("plant_id").longValue(); // SAME key used everywhere
 		Integer qty = request.get("qty");
-
 		return userService.updateSucculentCactusQty(plantId, qty);
 	}
 
 	// Reset qty
 	@PostMapping("/succulents_cactus/resetQty")
 	public void resetSucculentCactusQty(@RequestBody Map<String, Long> request) {
-
 		Long plantId = request.get("plant_id");
 		userService.resetSucculentCactusQty(plantId);
 	}
@@ -314,7 +287,6 @@ public class UserController {
 
 	// Get all plant accessories
 	@GetMapping("/plant_accessories")
-	@CrossOrigin(origins = "http://localhost:5173")
 	public List<PlantAccessories> getPlantAccessories() {
 		return userService.getAllPlantAccessories();
 	}
@@ -322,17 +294,14 @@ public class UserController {
 	// Update qty
 	@PostMapping("/plant_accessories/updateQty")
 	public PlantAccessories updatePlantAccessoryQty(@RequestBody Map<String, Integer> request) {
-
 		Long accessoryId = request.get("plant_id").longValue(); // SAME key as all modules
 		Integer qty = request.get("qty");
-
 		return userService.updatePlantAccessoryQty(accessoryId, qty);
 	}
 
 	// Reset qty
 	@PostMapping("/plant_accessories/resetQty")
 	public void resetPlantAccessoryQty(@RequestBody Map<String, Long> request) {
-
 		Long accessoryId = request.get("plant_id");
 		userService.resetPlantAccessoryQty(accessoryId);
 	}
