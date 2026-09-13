@@ -4,92 +4,88 @@ import logo from "../assets/MainLogo1.png";
 import { Link, useNavigate } from "react-router-dom";
 
 const Footer = () => {
-      const navigate = useNavigate();
+  const navigate = useNavigate();
 
   const handleSubscribe = () => {
     navigate("/signup");
   };
- 
-    return (
-        <footer className="fh-footer">
 
-            {/* Top section - Newsletter */}
-            <div className="footer-newsletter">
-                <h2>Join Our Green Community</h2>
-                <p>Get plant care tips, exclusive offers & new arrivals directly in your inbox.</p>
+  return (
+    <footer className="fh-footer">
+      {/* Top section - Newsletter */}
+      <div className="footer-newsletter">
+        <h2>Join Our Green Community</h2>
+        <p>Get plant care tips, exclusive offers & new arrivals directly in your inbox.</p>
 
-                <div className="newsletter-box">
-                    <input type="email" placeholder="Enter your email" />
-                    
-                            <button onClick={handleSubscribe}>Subscribe</button>
+        <div className="newsletter-box">
+          <input type="email" placeholder="Enter your email" />
+          <button onClick={handleSubscribe}>Subscribe</button>
+        </div>
+      </div>
 
-                </div>
-            </div>
+      {/* Middle Grid */}
+      <div className="footer-grid">
+        {/* Logo + About */}
+        <div className="footer-col">
+          <img src={logo} alt="Flora Harbor Logo" className="footer-logo" />
+          <p className="footer-about">
+            Flora Harbor is your trusted place to buy healthy indoor & outdoor plants.
+            We grow, care, and deliver plants with love.
+          </p>
 
-            {/* Middle Grid */}
-            <div className="footer-grid">
+          {/* Social Icons */}
+          <div className="social-icons">
+            <a href="#"><i className="fab fa-facebook"></i></a>
+            <a href="#"><i className="fab fa-instagram"></i></a>
+            <a href="#"><i className="fab fa-twitter"></i></a>
+            <a href="#"><i className="fab fa-youtube"></i></a>
+          </div>
+        </div>
 
-                {/* Logo + About */}
-                <div className="footer-col">
-                    <img src={logo} alt="Flora Harbor Logo" className="footer-logo" />
-                    <p className="footer-about">
-                        Flora Harbor is your trusted place to buy healthy indoor & outdoor plants.
-                        We grow, care, and deliver plants with love.
-                    </p>
+        {/* Quick Links */}
+        <div className="footer-col">
+          <h3>Quick Links</h3>
+          <ul>
+            <li><Link to="/">Home</Link></li>
+            <li><Link to="/plants">All Plants</Link></li>
+            <li><Link to="/indoor_plants">Indoor Plants</Link></li>
+            <li><Link to="/outdoor_plants">Outdoor Plants</Link></li>
+            <li><Link to="/contact">Contact Us</Link></li>
+            <li><Link to="/about">About Us</Link></li>
+          </ul>
+        </div>
 
-                    {/* Social Icons */}
-                    <div className="social-icons">
-                        <a href="#"><i className="fab fa-facebook"></i></a>
-                        <a href="#"><i className="fab fa-instagram"></i></a>
-                        <a href="#"><i className="fab fa-twitter"></i></a>
-                        <a href="#"><i className="fab fa-youtube"></i></a>
-                    </div>
-                </div>
+        {/* Support */}
+        <div className="footer-col">
+          <h3>Customer Support</h3>
+          <ul>
+            <li><Link to="/faq">FAQs</Link></li>
+            <li><Link to="/shipping">Shipping Policy</Link></li>
+            <li><Link to="/return">Return Policy</Link></li>
+            <li><Link to="/privacy">Privacy Policy</Link></li>
+            <li><Link to="/terms">Terms & Conditions</Link></li>
+          </ul>
+        </div>
 
-                {/* Quick Links */}
-                <div className="footer-col">
-                    <h3>Quick Links</h3>
-                    <ul>
-                        <li><a href="/">Home</a></li>
-                        <li><a href="/plants">All Plants</a></li>
-                        <li><Link to="/indoor_plants">Indoor Plants</Link></li>
-                        <li><Link to="/outdoor_plants">Outdoor Plants</Link></li>
-                        <li><a href="/contact">Contact Us</a></li>
-                        <li><a href="/about">About Us</a></li>
-                    </ul>
-                </div>
+        {/* Contact Section */}
+        <div className="footer-col">
+          <h3>Reach Us</h3>
+          <p>Email: support@floraharbor.com</p>
+          <p>Phone: +91 98765 43210</p>
+          <p>Location: Hyderabad, India</p>
 
-                {/* Support */}
-                <div className="footer-col">
-                    <h3>Customer Support</h3>
-                    <ul>
-                        <li><a href="/faq">FAQs</a></li>
-                        <li><a href="/shipping">Shipping Policy</a></li>
-                        <li><a href="/return">Return Policy</a></li>
-                        <li><a href="/privacy">Privacy Policy</a></li>
-                        <li><a href="/terms">Terms & Conditions</a></li>
-                    </ul>
-                </div>
+          <h3 className="hours-title">Opening Hours</h3>
+          <p>Mon – Sat: 9:30 AM – 7:00 PM</p>
+          <p>Sunday: Closed</p>
+        </div>
+      </div>
 
-                {/* Contact Section */}
-                <div className="footer-col">
-                    <h3>Reach Us</h3>
-                    <p>Email: support@floraharbor.com</p>
-                    <p>Phone: +91 98765 43210</p>
-                    <p>Location: Hyderabad, India</p>
-
-                    <h3 className="hours-title">Opening Hours</h3>
-                    <p>Mon – Sat: 9:30 AM – 7:00 PM</p>
-                    <p>Sunday: Closed</p>
-                </div>
-            </div>
-
-            {/* Copyright */}
-            <div className="footer-bottom">
-                © {new Date().getFullYear()} Flora Harbor — All Rights Reserved.
-            </div>
-        </footer>
-    );
+      {/* Copyright */}
+      <div className="footer-bottom">
+        © {new Date().getFullYear()} Flora Harbor — All Rights Reserved.
+      </div>
+    </footer>
+  );
 };
 
 export default Footer;
