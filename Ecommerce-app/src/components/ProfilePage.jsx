@@ -3,6 +3,9 @@ import axios from "axios";
 import { Link } from "react-router-dom";
 import "./Profilepage.css"; // import the CSS
 
+// Define base URL dynamically (falls back to Railway URL on production)
+const API_BASE_URL = import.meta.env.VITE_API_URL || "https://ecommerce-application-production-f58b.up.railway.app";
+
 const ProfilePage = () => {
   const [userDetails, setUserDetails] = useState(null);
 
@@ -10,10 +13,10 @@ const ProfilePage = () => {
     const storedUser = JSON.parse(localStorage.getItem("user"));
     if (!storedUser) return;
 
-   axios
-  .get(`https://ecommerce-application-production-f58b.up.railway.app/users/${storedUser.email}`)
-  .then(res => setUserDetails(res.data))
-  .catch(err => console.error(err));
+    axios
+      .get(`${API_BASE_URL}/users/${storedUser.email}`)
+      .then((res) => setUserDetails(res.data))
+      .catch((err) => console.error(err));
   }, []);
 
   if (!userDetails) return <div className="profile-loading">Loading...</div>;
@@ -26,7 +29,7 @@ const ProfilePage = () => {
           src={`https://api.dicebear.com/9.x/lorelei/svg?seed=${encodeURIComponent(
             userDetails.userName || userDetails.email
           )}`}
-          alt={userDetails.userName}
+          alt={userDetails.userName || "User Avatar"}
           className="profile-avatar"
         />
         <div className="profile-info">
