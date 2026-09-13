@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import NavBar from "./NavBar";
 import Slidehome from "./Slidehome";
 import IndoorPlants from "./IndoorPlants";
@@ -19,8 +19,13 @@ import SearchResults from "./SearchResults";
 const Home = ({ setSearchTerm, searchTerm }) => {
   const [activeComponent, setActiveComponent] = useState("");
 
-  // ✅ Get logged-in user from localStorage
+  // Get logged-in user from localStorage
   const user = JSON.parse(localStorage.getItem("user"));
+
+  // Scroll to top when active component changes
+  useEffect(() => {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  }, [activeComponent]);
 
   const renderComponent = () => {
     switch (activeComponent) {
@@ -56,16 +61,16 @@ const Home = ({ setSearchTerm, searchTerm }) => {
 
   return (
     <div>
-     <NavBar 
+      <NavBar 
         setActiveComponent={setActiveComponent}
         setSearchTerm={setSearchTerm}
-        user={user}   // ✅ Pass user info to NavBar
+        user={user}
       />
 
-      {/* This part changes dynamically */}
+      {/* Dynamic active category/search view */}
       {renderComponent()}
 
-      {/* These always stay on the page */}
+      {/* Permanent page layout sections */}
       <Slidehome />
       <About />
       <Contact />
