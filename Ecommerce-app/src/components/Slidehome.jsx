@@ -21,29 +21,22 @@ const Slidehome = () => {
       <div className="carousel-inner">
         <div className="carousel-item active" data-bs-interval="10000">
           <img src={ScrolingNav1} className="d-block w-100" alt="Slide 1" />
-          <div className="carousel-caption d-none d-md-block">
-          
-          </div>
+          <div className="carousel-caption d-none d-md-block"></div>
         </div>
 
         <div className="carousel-item" data-bs-interval="2000">
           <img src={ScrolingNav2} className="d-block w-100" alt="Slide 2" />
-          <div className="carousel-caption d-none d-md-block">
-          </div>
+          <div className="carousel-caption d-none d-md-block"></div>
         </div>
 
         <div className="carousel-item" data-bs-interval="2000">
           <img src={ScrolingNav3} className="d-block w-100" alt="Slide 3" />
-          <div className="carousel-caption d-none d-md-block">
-           
-          </div>
+          <div className="carousel-caption d-none d-md-block"></div>
         </div>
 
         <div className="carousel-item" data-bs-interval="2000">
           <img src={ScrolingNav4} className="d-block w-100" alt="Slide 4" />
-          <div className="carousel-caption d-none d-md-block">
-           
-          </div>
+          <div className="carousel-caption d-none d-md-block"></div>
         </div>
       </div>
 
