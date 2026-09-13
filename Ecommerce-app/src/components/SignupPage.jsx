@@ -6,9 +6,8 @@ import { Link, useNavigate } from "react-router-dom";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
-// Railway backend URL
-const API_BASE_URL =
-  "https://ecommerce-application-production-f58b.up.railway.app";
+// Define base URL dynamically (falls back to Railway URL on production)
+const API_BASE_URL = import.meta.env.VITE_API_URL || "https://ecommerce-application-production-f58b.up.railway.app";
 
 const SignupPage = () => {
   const [name, setName] = useState("");
@@ -72,6 +71,13 @@ const SignupPage = () => {
       await axios.post(`${API_BASE_URL}/users/signup1`, payload);
 
       toast.success("Signup successful!");
+
+      // Store user details in local storage for auto-login status
+      localStorage.setItem("user", JSON.stringify({
+        name: name,
+        email: email,
+        avatar: `https://ui-avatars.com/api/?name=${name}&background=random`
+      }));
 
       setTimeout(() => {
         navigate("/");
@@ -152,5 +158,3 @@ const SignupPage = () => {
 };
 
 export default SignupPage;
-
-
