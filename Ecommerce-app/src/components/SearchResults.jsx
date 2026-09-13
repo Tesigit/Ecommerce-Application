@@ -5,6 +5,9 @@ import "./IndoorPlants.css"; // reuse styles
 
 const ITEMS_PER_PAGE = 12;
 
+// Define base URL dynamically (falls back to Railway URL on production)
+const API_BASE_URL = import.meta.env.VITE_API_URL || "https://ecommerce-application-production-f58b.up.railway.app";
+
 const SearchResults = ({ searchTerm }) => {
   const [results, setResults] = useState([]);
   const [currentPage, setCurrentPage] = useState(1);
@@ -17,18 +20,16 @@ const SearchResults = ({ searchTerm }) => {
     }
 
     axios
-  .get(
-    `https://ecommerce-application-production-f58b.up.railway.app/users/search?query=${searchTerm}`
-  )
-  .then((res) =>
-    setResults(
-      res.data.map((p) => ({ ...p, qty: p.qty || 0 }))
-    )
-  )
-  .catch((err) => console.log(err));
+      .get(`${API_BASE_URL}/users/search?query=${searchTerm}`)
+      .then((res) =>
+        setResults(
+          res.data.map((p) => ({ ...p, qty: p.qty || 0 }))
+        )
+      )
+      .catch((err) => console.log(err));
   }, [searchTerm]);
 
-    // Map category names to backend endpoints
+  // Map category names to backend endpoints
   const endpointMap = {
     "Indoor Plants": "indoarplants",
     "Outdoor Plants": "outdoarplants",
@@ -51,20 +52,17 @@ const SearchResults = ({ searchTerm }) => {
       prev && prev.id === plantId ? { ...prev, qty: newQty } : prev
     );
 
-   const endpoint = endpointMap[category];
-axios.post(
-  `https://ecommerce-application-production-f58b.up.railway.app/users/${endpoint}/updateQty`,
-  {
-    plant_id: plantId,
-    qty: newQty
-  }
-);
-};
-    
+    const endpoint = endpointMap[category];
+    if (endpoint) {
+      axios.post(`${API_BASE_URL}/users/${endpoint}/updateQty`, {
+        plant_id: plantId,
+        qty: newQty
+      });
+    }
+  };
 
   const increment = (id, qty, category) => updateQty(id, qty + 1, category);
   const decrement = (id, qty, category) => qty > 0 && updateQty(id, qty - 1, category);
-
 
   // Pagination
   const totalPages = Math.ceil(results.length / ITEMS_PER_PAGE);
@@ -78,62 +76,67 @@ axios.post(
     }
   };
 
-  if (!results.length) return <p>No results found.</p>;
+  if (!results.length) return <p style={{ padding: "20px" }}>No results found.</p>;
 
   return (
     <div className="indoor-container">
       <div className="plants-grid">
-        {currentResults.map((item) => (
-          <div key={item.id} className="plant-card">
-            {item.discount_percent && <div className="discount-badge">-{item.discount_percent}%</div> }
+        {currentResults.map((item) => {
+          const rawImg = item.img_url || item.image || "";
+          const securedImg = rawImg.replace("http://", "https://");
+          const itemName = item.common_name || item.name || "";
 
-            <img src={item.img_url || item.image} className="plant-img" alt={item.common_name || item.name} />
+          return (
+            <div key={item.id} className="plant-card">
+              {item.discount_percent && <div className="discount-badge">-{item.discount_percent}%</div>}
 
-           <p
-  className="plant-title"
-  dangerouslySetInnerHTML={{
-    __html: item.name.replace(
-      new RegExp(searchTerm, "gi"),
-      (match) => `<mark>${match}</mark>`
-    ),
-  }}
-/>
+              <img src={securedImg} className="plant-img" alt={itemName} />
 
-            <div className="category-label">{item.category}</div>
+              <p
+                className="plant-title"
+                dangerouslySetInnerHTML={{
+                  __html: itemName.replace(
+                    new RegExp(searchTerm, "gi"),
+                    (match) => `<mark>${match}</mark>`
+                  ),
+                }}
+              />
 
+              <div className="category-label">{item.category}</div>
 
-            <div className="price-box">
-              <span className="old-price">₹{item.price}</span>
-              <span className="new-price">₹{item.selling_price || item.price}</span>
-            </div>
+              <div className="price-box">
+                <span className="old-price">₹{item.price}</span>
+                <span className="new-price">₹{item.selling_price || item.price}</span>
+              </div>
 
-            <div className="rating-stars">
-              {"★".repeat(Math.floor(item.rating || 0))}
-            </div>
+              <div className="rating-stars">
+                {"★".repeat(Math.floor(item.rating || 0))}
+              </div>
 
-            <div className="button-row">
-              <button className="btn-icon view-btn" onClick={() => setSelectedPlant(item)}>
-                <i className="bi bi-info-circle"></i>
-              </button>
-
-              {item.qty === 0 ? (
-                <button className="btn-icon cart-btn" onClick={() => increment(item.id, item.qty,item.category)}>
-                  <i className="bx bx-cart"></i>
+              <div className="button-row">
+                <button className="btn-icon view-btn" onClick={() => setSelectedPlant(item)}>
+                  <i className="bi bi-info-circle"></i>
                 </button>
-              ) : (
-                <div className="qty-box">
-                  <button className="qty-btn" onClick={() => decrement(item.id, item.qty,item.category)}>-</button>
-                  <span className="qty-value">{item.qty}</span>
-                  <button className="qty-btn" onClick={() => increment(item.id, item.qty,item.category)}>+</button>
-                </div>
-              )}
 
-              <Link to={`/buynow/${item.id}`} className="btn-icon buy-btn">
-                Buy Now
-              </Link>
+                {item.qty === 0 ? (
+                  <button className="btn-icon cart-btn" onClick={() => increment(item.id, item.qty, item.category)}>
+                    <i className="bx bx-cart"></i>
+                  </button>
+                ) : (
+                  <div className="qty-box">
+                    <button className="qty-btn" onClick={() => decrement(item.id, item.qty, item.category)}>-</button>
+                    <span className="qty-value">{item.qty}</span>
+                    <button className="qty-btn" onClick={() => increment(item.id, item.qty, item.category)}>+</button>
+                  </div>
+                )}
+
+                <Link to={`/buynow/${item.id}`} className="btn-icon buy-btn">
+                  Buy Now
+                </Link>
+              </div>
             </div>
-          </div>
-        ))}
+          );
+        })}
       </div>
 
       {/* Pagination */}
@@ -195,14 +198,14 @@ axios.post(
 
             <div className="details-btn-row">
               {selectedPlant.qty === 0 ? (
-                <button className="cart-btn-big" onClick={() => increment(selectedPlant.id, selectedPlant.qty,selectedPlant.category)}>
+                <button className="cart-btn-big" onClick={() => increment(selectedPlant.id, selectedPlant.qty, selectedPlant.category)}>
                   <i className="bx bx-cart"></i> Add to Cart
                 </button>
               ) : (
                 <div className="qty-box-big">
-                  <button className="qty-btn-big" onClick={() => decrement(selectedPlant.id, selectedPlant.qty,selectedPlant.category)}>-</button>
+                  <button className="qty-btn-big" onClick={() => decrement(selectedPlant.id, selectedPlant.qty, selectedPlant.category)}>-</button>
                   <span className="qty-value-big">{selectedPlant.qty}</span>
-                  <button className="qty-btn-big" onClick={() => increment(selectedPlant.id, selectedPlant.qty,selectedPlant.category)}>+</button>
+                  <button className="qty-btn-big" onClick={() => increment(selectedPlant.id, selectedPlant.qty, selectedPlant.category)}>+</button>
                 </div>
               )}
               <Link to={`/buynow/${selectedPlant.id}`} className="buy-now-big link-button">
