@@ -18,7 +18,7 @@ const Soil_Pesticides1 = () => {
       .then((res) => res.json())
       .then((data) =>
         setPlants(
-          data.map((p) => ({
+          (data || []).map((p) => ({
             ...p,
             qty: p.qty || 0, // Ensure qty exists
           }))
@@ -44,7 +44,7 @@ const Soil_Pesticides1 = () => {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ plant_id: plantId, qty: newQty }),
-    });
+    }).catch((err) => console.error("Error updating quantity:", err));
   };
 
   const increment = (plantId, currentQty) => {
@@ -74,25 +74,25 @@ const Soil_Pesticides1 = () => {
 
       <div className="plants-grid">
         {currentPlants.map((item, index) => (
-          <div key={index} className="plant-card">
-            <div className="discount-badge">-{item.discount_percent}%</div>
+          <div key={item.id || index} className="plant-card">
+            <div className="discount-badge">-{item.discount_percent || 0}%</div>
 
             {/* HTTPS secured image URL */}
             <img 
               src={item.img_url ? item.img_url.replace("http://", "https://") : ""} 
               className="plant-img" 
-              alt={item.common_name} 
+              alt={item.common_name || "Soil & Pesticide"} 
             />
 
             <p className="plant-title">{item.common_name}</p>
 
             <div className="price-box">
               <span className="old-price">Rs. {item.price}</span>
-              <span className="new-price">Rs. {item.selling_price}</span>
+              <span className="new-price">Rs. {item.selling_price || item.price}</span>
             </div>
 
             <div className="rating-stars">
-              {"★".repeat(Math.floor(item.rating))}
+              {"★".repeat(Math.floor(item.rating || 0))}
             </div>
 
             <div className="button-row">
@@ -148,7 +148,7 @@ const Soil_Pesticides1 = () => {
 
         <button
           onClick={() => goToPage(currentPage + 1)}
-          disabled={currentPage === totalPages}
+          disabled={currentPage === totalPages || totalPages === 0}
         >
           {">"}
         </button>
@@ -174,7 +174,8 @@ const Soil_Pesticides1 = () => {
               <p className="detail-sci"><i>{selectedPlant.quantity}</i></p>
             )}
 
-            {selectedPlant.benefits && (
+            {/* SAFE ARRAY RENDER: BENEFITS */}
+            {selectedPlant?.benefits && selectedPlant.benefits.length > 0 && (
               <>
                 <h3>Benefits</h3>
                 <ul className="list-box">
@@ -185,11 +186,12 @@ const Soil_Pesticides1 = () => {
               </>
             )}
 
-            {selectedPlant.directions_to_use && (
+            {/* SAFE ARRAY RENDER: DIRECTIONS TO USE / STEPS TO GROW */}
+            {(selectedPlant?.directions_to_use || selectedPlant?.steps_to_grow) && (
               <>
                 <h3>Directions to Use</h3>
                 <ul className="list-box">
-                  {selectedPlant.directions_to_use.map((step, i) => (
+                  {(selectedPlant.directions_to_use || selectedPlant.steps_to_grow).map((step, i) => (
                     <li key={i}>{step}</li>
                   ))}
                 </ul>
@@ -198,11 +200,11 @@ const Soil_Pesticides1 = () => {
 
             <div className="details-price">
               <span className="old">Rs. {selectedPlant.price}</span>
-              <span className="new">Rs. {selectedPlant.selling_price}</span>
+              <span className="new">Rs. {selectedPlant.selling_price || selectedPlant.price}</span>
             </div>
 
             <div className="details-rating">
-              {"★".repeat(Math.floor(selectedPlant.rating))}
+              {"★".repeat(Math.floor(selectedPlant.rating || 0))}
             </div>
 
             {/* BUTTON ALIGNMENT */}
