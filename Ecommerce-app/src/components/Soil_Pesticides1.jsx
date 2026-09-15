@@ -13,9 +13,18 @@ const Soil_Pesticides1 = () => {
   const [selectedPlant, setSelectedPlant] = useState(null);
 
   // ---------------- FETCH DATA ----------------
+// ---------------- FETCH DATA ----------------
   useEffect(() => {
     fetch(`${API_BASE_URL}/users/soil_pesticides`)
-      .then((res) => res.json())
+      .then(async (res) => {
+        const text = await res.text();
+        try {
+          return JSON.parse(text);
+        } catch (e) {
+          console.error("Corrupted JSON character near position 412919:", text.slice(412800, 413000));
+          throw e;
+        }
+      })
       .then((data) =>
         setPlants(
           (data || []).map((p) => ({
