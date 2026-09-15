@@ -12,8 +12,7 @@ const Soil_Pesticides1 = () => {
   const [currentPage, setCurrentPage] = useState(1);
   const [selectedPlant, setSelectedPlant] = useState(null);
 
-  // ---------------- FETCH DATA ----------------
-// ---------------- FETCH DATA ----------------
+  // ---------------- FETCH DATA WITH SAFE PARSING ----------------
   useEffect(() => {
     fetch(`${API_BASE_URL}/users/soil_pesticides`)
       .then(async (res) => {
@@ -29,6 +28,7 @@ const Soil_Pesticides1 = () => {
         setPlants(
           (data || []).map((p) => ({
             ...p,
+            id: p.id || p.plant_id, // Safe fallback for plant ID
             qty: p.qty || 0, // Ensure qty exists
           }))
         )
@@ -40,13 +40,13 @@ const Soil_Pesticides1 = () => {
   const updateQty = (plantId, newQty) => {
     setPlants((prev) =>
       prev.map((p) =>
-        p.id === plantId ? { ...p, qty: newQty } : p
+        (p.id || p.plant_id) === plantId ? { ...p, qty: newQty } : p
       )
     );
 
     // update sidebar also
     setSelectedPlant((prev) =>
-      prev && prev.id === plantId ? { ...prev, qty: newQty } : prev
+      prev && (prev.id || prev.plant_id) === plantId ? { ...prev, qty: newQty } : prev
     );
 
     fetch(`${API_BASE_URL}/users/soil_pesticides/updateQty`, {
@@ -82,56 +82,59 @@ const Soil_Pesticides1 = () => {
       <div className="banner-soil"></div>
 
       <div className="plants-grid">
-        {currentPlants.map((item, index) => (
-          <div key={item.id || index} className="plant-card">
-            <div className="discount-badge">-{item.discount_percent || 0}%</div>
+        {currentPlants.map((item, index) => {
+          const itemId = item.id || item.plant_id;
+          return (
+            <div key={itemId || index} className="plant-card">
+              <div className="discount-badge">-{item.discount_percent || 0}%</div>
 
-            {/* HTTPS secured image URL */}
-            <img 
-              src={item.img_url ? item.img_url.replace("http://", "https://") : ""} 
-              className="plant-img" 
-              alt={item.common_name || "Soil & Pesticide"} 
-            />
+              {/* HTTPS secured image URL */}
+              <img 
+                src={item.img_url ? item.img_url.replace("http://", "https://") : ""} 
+                className="plant-img" 
+                alt={item.common_name || "Soil & Pesticide"} 
+              />
 
-            <p className="plant-title">{item.common_name}</p>
+              <p className="plant-title">{item.common_name}</p>
 
-            <div className="price-box">
-              <span className="old-price">Rs. {item.price}</span>
-              <span className="new-price">Rs. {item.selling_price || item.price}</span>
-            </div>
+              <div className="price-box">
+                <span className="old-price">Rs. {item.price}</span>
+                <span className="new-price">Rs. {item.selling_price || item.price}</span>
+              </div>
 
-            <div className="rating-stars">
-              {"★".repeat(Math.floor(item.rating || 0))}
-            </div>
+              <div className="rating-stars">
+                {"★".repeat(Math.floor(item.rating || 0))}
+              </div>
 
-            <div className="button-row">
-              {/* VIEW DETAILS */}
-              <button className="btn-icon view-btn" onClick={() => setSelectedPlant(item)}>
-                <i className="bi bi-info-circle"></i>
-              </button>
-
-              {/* CART BTN + QTY LOGIC */}
-              {item.qty === 0 ? (
-                <button
-                  className="btn-icon cart-btn"
-                  onClick={() => increment(item.id, item.qty)}
-                >
-                  <i className="bx bx-cart"></i>
+              <div className="button-row">
+                {/* VIEW DETAILS */}
+                <button className="btn-icon view-btn" onClick={() => setSelectedPlant(item)}>
+                  <i className="bi bi-info-circle"></i>
                 </button>
-              ) : (
-                <div className="qty-box">
-                  <button className="qty-btn" onClick={() => decrement(item.id, item.qty)}>-</button>
-                  <span className="qty-value">{item.qty}</span>
-                  <button className="qty-btn" onClick={() => increment(item.id, item.qty)}>+</button>
-                </div>
-              )}
 
-              <Link to={`/buynow/${item.id}`} className="btn-icon buy-btn">
-                Buy Now
-              </Link>
+                {/* CART BTN + QTY LOGIC */}
+                {item.qty === 0 ? (
+                  <button
+                    className="btn-icon cart-btn"
+                    onClick={() => increment(itemId, item.qty)}
+                  >
+                    <i className="bx bx-cart"></i>
+                  </button>
+                ) : (
+                  <div className="qty-box">
+                    <button className="qty-btn" onClick={() => decrement(itemId, item.qty)}>-</button>
+                    <span className="qty-value">{item.qty}</span>
+                    <button className="qty-btn" onClick={() => increment(itemId, item.qty)}>+</button>
+                  </div>
+                )}
+
+                <Link to={`/buynow/${itemId}`} className="btn-icon buy-btn">
+                  Buy Now
+                </Link>
+              </div>
             </div>
-          </div>
-        ))}
+          );
+        })}
       </div>
 
       {/* Pagination */}
@@ -221,7 +224,7 @@ const Soil_Pesticides1 = () => {
               {selectedPlant.qty === 0 ? (
                 <button
                   className="cart-btn-big"
-                  onClick={() => increment(selectedPlant.id, selectedPlant.qty)}
+                  onClick={() => increment(selectedPlant.id || selectedPlant.plant_id, selectedPlant.qty)}
                 >
                   <i className="bx bx-cart"></i> Add to Cart
                 </button>
@@ -229,7 +232,7 @@ const Soil_Pesticides1 = () => {
                 <div className="qty-box-big">
                   <button
                     className="qty-btn-big"
-                    onClick={() => decrement(selectedPlant.id, selectedPlant.qty)}
+                    onClick={() => decrement(selectedPlant.id || selectedPlant.plant_id, selectedPlant.qty)}
                   >
                     -
                   </button>
@@ -238,14 +241,14 @@ const Soil_Pesticides1 = () => {
 
                   <button
                     className="qty-btn-big"
-                    onClick={() => increment(selectedPlant.id, selectedPlant.qty)}
+                    onClick={() => increment(selectedPlant.id || selectedPlant.plant_id, selectedPlant.qty)}
                   >
                     +
                   </button>
                 </div>
               )}
 
-              <Link to={`/buynow/${selectedPlant.id}`} className="buy-now-big link-button">
+              <Link to={`/buynow/${selectedPlant.id || selectedPlant.plant_id}`} className="buy-now-big link-button">
                 Buy Now
               </Link>
             </div>
